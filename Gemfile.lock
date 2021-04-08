@@ -1,0 +1,20 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    nokogiri (1.11.3-arm64-darwin)
+      racc (~> 1.4)
+    racc (1.5.2)
+    rubyzip (2.3.0)
+    simple_xlsx_reader (1.0.4)
+      nokogiri
+      rubyzip
+
+PLATFORMS
+  arm64-darwin-20
+
+DEPENDENCIES
+  nokogiri
+  simple_xlsx_reader
+
+BUNDLED WITH
+   2.2.3
