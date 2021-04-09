@@ -1,434 +1,2974 @@
 <?xml version="1.0"?>
 <data>
   <release>
-    <title>BCLTDLP01</title>
-    <title>BCLTDLP01</title>
-    <title>BCLTDLP01</title>
-    <title>BCLTDLP01</title>
-    <title>BCLTDLP01</title>
-    <title>BCLTDLP01</title>
-    <title>BCLTDLP01</title>
-  </release>
-  <release>
-    <title>BCR001</title>
-    <title>BCR001</title>
-    <title>BCR001</title>
-  </release>
-  <release>
-    <title>BCR002</title>
-    <title>BCR002</title>
-    <title>BCR002</title>
-    <title>BCR002</title>
-  </release>
-  <release>
-    <title>BCR003</title>
-    <title>BCR003</title>
-    <title>BCR003</title>
-  </release>
-  <release>
-    <title>BCR004</title>
-    <title>BCR004</title>
-    <title>BCR004</title>
-    <title>BCR004</title>
-    <title>BCR004</title>
-    <title>BCR004</title>
-  </release>
-  <release>
-    <title>BCR005</title>
-    <title>BCR005</title>
-    <title>BCR005</title>
-  </release>
-  <release>
-    <title>BCR006</title>
-    <title>BCR006</title>
-    <title>BCR006</title>
-    <title>BCR006</title>
-  </release>
-  <release>
-    <title>BCR007</title>
-    <title>BCR007</title>
-    <title>BCR007</title>
-  </release>
-  <release>
-    <title>BCR008</title>
-    <title>BCR008</title>
-    <title>BCR008</title>
-    <title>BCR008</title>
-    <title>BCR008</title>
-  </release>
-  <release>
-    <title>BCR009</title>
-    <title>BCR009</title>
-    <title>BCR009</title>
-    <title>BCR009</title>
-  </release>
-  <release>
-    <title>BCR010</title>
-    <title>BCR010</title>
-    <title>BCR010</title>
-  </release>
-  <release>
-    <title>BCR011</title>
-    <title>BCR011</title>
-    <title>BCR011</title>
-    <title>BCR011</title>
-  </release>
-  <release>
-    <title>BCR012</title>
-    <title>BCR012</title>
-    <title>BCR012</title>
-    <title>BCR012</title>
-    <title>BCR012</title>
-  </release>
-  <release>
-    <title>BCR013</title>
-    <title>BCR013</title>
-    <title>BCR013</title>
-    <title>BCR013</title>
-    <title>BCR013</title>
-  </release>
-  <release>
-    <title>BCR014</title>
-    <title>BCR014</title>
-    <title>BCR014</title>
-    <title>BCR014</title>
-  </release>
-  <release>
-    <title>BCR015</title>
-    <title>BCR015</title>
-    <title>BCR015</title>
-    <title>BCR015</title>
-  </release>
-  <release>
-    <title>BCR016</title>
-    <title>BCR016</title>
-    <title>BCR016</title>
-    <title>BCR016</title>
-  </release>
-  <release>
-    <title>BCR017</title>
-    <title>BCR017</title>
-    <title>BCR017</title>
-    <title>BCR017</title>
-  </release>
-  <release>
-    <title>BCR018</title>
-    <title>BCR018</title>
-    <title>BCR018</title>
-    <title>BCR018</title>
-    <title>BCR018</title>
-  </release>
-  <release>
-    <title>BCR019</title>
-    <title>BCR019</title>
-  </release>
-  <release>
-    <title>BCR020</title>
-    <title>BCR020</title>
-    <title>BCR020</title>
-    <title>BCR020</title>
-    <title>BCR020</title>
-  </release>
-  <release>
-    <title>BCR021</title>
-    <title>BCR021</title>
-    <title>BCR021</title>
-    <title>BCR021</title>
-    <title>BCR021</title>
-  </release>
-  <release>
-    <title>BCR022</title>
-    <title>BCR022</title>
-    <title>BCR022</title>
-    <title>BCR022</title>
-  </release>
-  <release>
-    <title>BCR023</title>
-    <title>BCR023</title>
-    <title>BCR023</title>
-    <title>BCR023</title>
-    <title>BCR023</title>
-  </release>
-  <release>
-    <title>BCR024</title>
-    <title>BCR024</title>
-    <title>BCR024</title>
-    <title>BCR024</title>
-    <title>BCR024</title>
-  </release>
-  <release>
-    <title>BCR025</title>
-    <title>BCR025</title>
-    <title>BCR025</title>
-    <title>BCR025</title>
-  </release>
-  <release>
-    <title>BCR026</title>
-    <title>BCR026</title>
-    <title>BCR026</title>
-    <title>BCR026</title>
-  </release>
-  <release>
-    <title>BCR027</title>
-    <title>BCR027</title>
-    <title>BCR027</title>
-    <title>BCR027</title>
-  </release>
-  <release>
-    <title>BCR028</title>
-    <title>BCR028</title>
-    <title>BCR028</title>
-    <title>BCR028</title>
-    <title>BCR028</title>
-  </release>
-  <release>
-    <title>BCR029</title>
-    <title>BCR029</title>
-    <title>BCR029</title>
-    <title>BCR029</title>
-  </release>
-  <release>
-    <title>BCR030</title>
-    <title>BCR030</title>
-    <title>BCR030</title>
-    <title>BCR030</title>
-  </release>
-  <release>
-    <title>BCR031</title>
-    <title>BCR031</title>
-    <title>BCR031</title>
-    <title>BCR031</title>
-  </release>
-  <release>
-    <title>BCR032</title>
-    <title>BCR032</title>
-    <title>BCR032</title>
-    <title>BCR032</title>
-  </release>
-  <release>
-    <title>BCR033</title>
-    <title>BCR033</title>
-    <title>BCR033</title>
-    <title>BCR033</title>
-    <title>BCR033</title>
-  </release>
-  <release>
-    <title>BCR037</title>
-    <title>BCR037</title>
-  </release>
-  <release>
-    <title>BCR038</title>
-    <title>BCR038</title>
-  </release>
-  <release>
-    <title>BCR039</title>
-    <title>BCR039</title>
-    <title>BCR039</title>
-  </release>
-  <release>
-    <title>BCR041</title>
-    <title>BCR041</title>
-    <title>BCR041</title>
-    <title>BCR041</title>
-  </release>
-  <release>
-    <title>BCR042</title>
-    <title>BCR042</title>
-    <title>BCR042</title>
-  </release>
-  <release>
-    <title>BCR043</title>
-    <title>BCR043</title>
-  </release>
-  <release>
-    <title>BCR044</title>
-    <title>BCR044</title>
-    <title>BCR044</title>
-  </release>
-  <release>
-    <title>BCR045</title>
-    <title>BCR045</title>
-  </release>
-  <release>
-    <title>BCR046</title>
-    <title>BCR046</title>
-    <title>BCR046</title>
-  </release>
-  <release>
-    <title>BCR047</title>
-    <title>BCR047</title>
-    <title>BCR047</title>
-  </release>
-  <release>
-    <title>BCR048</title>
-    <title>BCR048</title>
-  </release>
-  <release>
-    <title>BCR049</title>
-    <title>BCR049</title>
-    <title>BCR049</title>
-    <title>BCR049</title>
-  </release>
-  <release>
-    <title>BCR050</title>
-    <title>BCR050</title>
-  </release>
-  <release>
-    <title>BCR051</title>
-    <title>BCR051</title>
-  </release>
-  <release>
-    <title>BCR052</title>
-    <title>BCR052</title>
-    <title>BCR052</title>
-    <title>BCR052</title>
-  </release>
-  <release>
-    <title>BCR053</title>
-    <title>BCR053</title>
-    <title>BCR053</title>
-  </release>
-  <release>
-    <title>BCR054</title>
-    <title>BCR054</title>
-    <title>BCR054</title>
-    <title>BCR054</title>
-  </release>
-  <release>
-    <title>BCR055</title>
-    <title>BCR055</title>
-    <title>BCR055</title>
-    <title>BCR055</title>
-  </release>
-  <release>
-    <title>BCR056</title>
-    <title>BCR056</title>
-    <title>BCR056</title>
-    <title>BCR056</title>
-  </release>
-  <release>
-    <title>BCR057</title>
-    <title>BCR057</title>
-    <title>BCR057</title>
-  </release>
-  <release>
-    <title>BCR058</title>
-    <title>BCR058</title>
-    <title>BCR058</title>
-  </release>
-  <release>
-    <title>BCR059</title>
-    <title>BCR059</title>
-  </release>
-  <release>
-    <title>BCR063</title>
-    <title>BCR063</title>
-    <title>BCR063</title>
-    <title>BCR063</title>
-  </release>
-  <release>
-    <title>BCR064</title>
-    <title>BCR064</title>
-    <title>BCR064</title>
-  </release>
-  <release>
-    <title>BCRLP01</title>
-    <title>BCRLP01</title>
-    <title>BCRLP01</title>
-    <title>BCRLP01</title>
-    <title>BCRLP01</title>
-    <title>BCRLP01</title>
-    <title>BCRLP01</title>
-    <title>BCRLP01</title>
-    <title>BCRLP01</title>
-    <title>BCRLP01</title>
-  </release>
-  <release>
-    <title>BCRLP02</title>
-    <title>BCRLP02</title>
-    <title>BCRLP02</title>
-    <title>BCRLP02</title>
-    <title>BCRLP02</title>
-    <title>BCRLP02</title>
-    <title>BCRLP02</title>
-    <title>BCRLP02</title>
-    <title>BCRLP02</title>
-    <title>BCRLP02</title>
-  </release>
-  <release>
-    <title>BCRLP03</title>
-    <title>BCRLP03</title>
-    <title>BCRLP03</title>
-    <title>BCRLP03</title>
-    <title>BCRLP03</title>
-    <title>BCRLP03</title>
-    <title>BCRLP03</title>
-    <title>BCRLP03</title>
-    <title>BCRLP03</title>
-    <title>BCRLP03</title>
-    <title>BCRLP03</title>
-  </release>
-  <release>
-    <title>BCRLP04</title>
-    <title>BCRLP04</title>
-    <title>BCRLP04</title>
-    <title>BCRLP04</title>
-    <title>BCRLP04</title>
-    <title>BCRLP04</title>
-    <title>BCRLP04</title>
-    <title>BCRLP04</title>
-    <title>BCRLP04</title>
-    <title>BCRLP04</title>
-    <title>BCRLP04</title>
-    <title>BCRLP04</title>
-  </release>
-  <release>
-    <title>BCRLP05</title>
-    <title>BCRLP05</title>
-    <title>BCRLP05</title>
-    <title>BCRLP05</title>
-    <title>BCRLP05</title>
-    <title>BCRLP05</title>
-    <title>BCRLP05</title>
-    <title>BCRLP05</title>
-    <title>BCRLP05</title>
-    <title>BCRLP05</title>
-  </release>
-  <release>
-    <title>BCRLP06</title>
-    <title>BCRLP06</title>
-    <title>BCRLP06</title>
-    <title>BCRLP06</title>
-    <title>BCRLP06</title>
-    <title>BCRLP06</title>
-    <title>BCRLP06</title>
-    <title>BCRLP06</title>
-    <title>BCRLP06</title>
-    <title>BCRLP06</title>
-    <title>BCRLP06</title>
-  </release>
-  <release>
-    <title>BCRLP06s</title>
-    <title>BCRLP06s</title>
-    <title>BCRLP06s</title>
-    <title>BCRLP06s</title>
-    <title>BCRLP06s</title>
-    <title>BCRLP06s</title>
-    <title>BCRLP06s</title>
-    <title>BCRLP06s</title>
-    <title>BCRLP06s</title>
-    <title>BCRLP06s</title>
-  </release>
-  <release>
-    <title>BCRLP07</title>
-    <title>BCRLP07</title>
-    <title>BCRLP07</title>
-    <title>BCRLP07</title>
-    <title>BCRLP07</title>
-    <title>BCRLP07</title>
-    <title>BCRLP07</title>
-    <title>BCRLP07</title>
-    <title>BCRLP07</title>
-    <title>BCRLP07</title>
+    <title>Bass Culture Limited, Vol.1</title>
+    <sku_ep>BCLTDLP01</sku_ep>
+    <artists>Various Artists</artists>
+    <label>Bass Culture Records</label>
+    <genres>House - Deep</genres>
+    <years>2021</years>
+    <type>release</type>
+    <price>9.03</price>
+    <description>A collection of tracks by MP, Pola, DJ Honesty , Sasha Dive, Leo Pol, Losoul and Tripmastaz previously only available on Bass Culture vinyl only sister label  
+
+</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2021/BCLTDLP01</featured_image>
+    <download_file_name>Various Artists - Bass Culture Limited, Vol.1 BCLTDLP01.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCLTDLP01_1.mp3"&gt;MP - Muzie Clue&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCLTDLP01_2.mp3"&gt;Sasha Dive - XMR (Leo Pol Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCLTDLP01_3.mp3"&gt;Dj Honesty - Moment (Losoul Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCLTDLP01_4.mp3"&gt;MP - Why So Sophisticated?&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCLTDLP01_5.mp3"&gt;Pola - Makarska&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCLTDLP01_6.mp3"&gt;MP - Start Get Yoself&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCLTDLP01_7.mp3"&gt;Tripmastaz - Game of Senses&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>12/02/2021</title>
+      <artists>Muzie Clue</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>12/02/2021</title>
+      <artists>XMR</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>12/02/2021</title>
+      <artists>Moment</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>12/02/2021</title>
+      <artists>Why So Sophisticated?</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>12/02/2021</title>
+      <artists>Makarska</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>12/02/2021</title>
+      <artists>Start Get Yoself</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>12/02/2021</title>
+      <artists>Game of Senses</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Kalooo EP</title>
+    <sku_ep>BCR001</sku_ep>
+    <artists>Lemos</artists>
+    <label>Bass Culture Records</label>
+    <genres>Tech House</genres>
+    <years>2009</years>
+    <type>release</type>
+    <price>3.87</price>
+    <description>D'Julz's famous 'Bass Culture' parties, are Paris' Rex Club oldest residency, and have boasted the likes of Marco Carola, Onur Ozer and Loco Dice as recent guests. The label will transfer the excitement, depth and variety of music from the parties to the wax (and Wavs). Starting today with Greek producer Lemos, who offers us two tracks of Oldshool House/Techno with a modern twist, and Arnaud Le Texier on remix duties.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2009/BCR001</featured_image>
+    <download_file_name>Lemos - Kalooo EP BCR001.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR001_1.mp3"&gt;Lemos - Kalooo&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR001_2.mp3"&gt;Lemos - Kalooo (Arnaud Le Texier Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR001_3.mp3"&gt;Lemos - Moshi Moshi&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>23/09/2009</title>
+      <artists>Kalooo</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>23/09/2009</title>
+      <artists>Kalooo</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>23/09/2009</title>
+      <artists>Moshi Moshi</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Thai EP</title>
+    <sku_ep>BCR002</sku_ep>
+    <artists>Alex Picone</artists>
+    <label>Bass Culture Records</label>
+    <genres>Techno|Tech House</genres>
+    <years>2009</years>
+    <type>release</type>
+    <price>5.16</price>
+    <description>.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2009/BCR002</featured_image>
+    <download_file_name>Alex Picone - Thai EP BCR002.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR002_1.mp3"&gt;Alex Picone - Mon Amour&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR002_2.mp3"&gt;Alex Picone - Mon Amour (Chris Carrier Analog Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR002_3.mp3"&gt;Alex Picone - In Amore&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR002_4.mp3"&gt;Alex Picone - Mon Amour (Chris Carrier Dub Mix (Digital Only))&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>28/10/2009</title>
+      <artists>Mon Amour</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>28/10/2009</title>
+      <artists>Mon Amour</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>28/10/2009</title>
+      <artists>In Amore</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>28/10/2009</title>
+      <artists>Mon Amour</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>The Pressure</title>
+    <sku_ep>BCR003</sku_ep>
+    <artists>Kasper</artists>
+    <label>Bass Culture Records</label>
+    <genres>House - Deep|Tech House</genres>
+    <years>2009</years>
+    <type>release</type>
+    <price>3.87</price>
+    <description>Kasper - The Pressure is the latest release on Bass Culture Records.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2009/BCR003</featured_image>
+    <download_file_name>Kasper - The Pressure BCR003.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR003_1.mp3"&gt;Kasper - The Pressure&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR003_2.mp3"&gt;Kasper - The Pressure (Mr. G's Bass Cultured Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR003_3.mp3"&gt;Kasper - Vibrations&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>27/11/2009</title>
+      <artists>The Pressure</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>27/11/2009</title>
+      <artists>The Pressure</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>27/11/2009</title>
+      <artists>Vibrations</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Let The Music Play EP</title>
+    <sku_ep>BCR004</sku_ep>
+    <artists>Zoe Xenia</artists>
+    <label>Bass Culture Records</label>
+    <genres>Tech House|House - Deep</genres>
+    <years>2009</years>
+    <type>release</type>
+    <price>7.74</price>
+    <description>The fourth single from the young new label founded by D'Julz, Bass Culture brings the noise.
+
+'Let the Music Play' featuring the talents of Zoe Xenia, of Amsterdam. Her first EP was released on ArtMiniMal in Spring 2007, followed by a release on Organised Music...With an album deal on the way with Kosmo Records. Taking her queues from her early rock-band singing roots, to the house &amp; techno arena, Zoe is a talented vocalist both in the studio &amp; live on the stage. With her powerful, soulful voie - she weaves together a hypnotic, ecstatic experience for the listener and an extremely funked up situation for the dancing crowd; an exchange of energy that dissolves boundaries.
+Featuring remixes by Anonym &amp; Damian Schwartz...
+
+Zoe's past releases can be found on: Connaisseur, Kaufe Musik, ArtMiniMal, and more.
+
+</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2009/BCR004</featured_image>
+    <download_file_name>Zoe Xenia - Let The Music Play EP BCR004.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR004_1.mp3"&gt;Zoe Xenia - Let The Music Play&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR004_2.mp3"&gt;Zoe Xenia - Let The Music Play (Anonym Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR004_3.mp3"&gt;Zoe Xenia - Cravin'&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR004_4.mp3"&gt;Zoe Xenia - Let The Music Play (Damian Schwartz Dub Mix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR004_5.mp3"&gt;Zoe Xenia - Let The Music Play (Damian Schwartz Remix (Digital Only))&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR004_6.mp3"&gt;Zoe Xenia - Ain't No&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>18/12/2009</title>
+      <artists>Let The Music Play</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>18/12/2009</title>
+      <artists>Let The Music Play</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>18/12/2009</title>
+      <artists>Cravin'</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>18/12/2009</title>
+      <artists>Let The Music Play</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>18/12/2009</title>
+      <artists>Let The Music Play</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>18/12/2009</title>
+      <artists>Ain't No</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Ivory Machine EP</title>
+    <sku_ep>BCR005</sku_ep>
+    <artists>Arnaud Le Texier</artists>
+    <label>Bass Culture Records</label>
+    <genres>Tech House|Techno</genres>
+    <years>2010</years>
+    <type>release</type>
+    <price>3.87</price>
+    <description>D'Julz's Bass Culture Records has undoubtedly been one of the major highlights of 2009. In just four releases the French label has set the bar for all others in terms of quality and 2010 is looking to be a groundbreaking year for them. First release of '10 sees the label head keeping it French with the 'Ivory Machine E.P.' from Arnaud Le Texier. 1990 saw the start of Arnaud Le Texier's musical journey. A journey that has taken him from early DJ sets and record shop management in Rennes, a five year residency at Paris's 'Queen' Club, touring throughout Europe and North America, the 2004 launch of 'Safari Electronique' Records, and, in 2006, a move to London, where he now resides.
+
+Since its inception, and due to the quality and diversity of its output, his Safari Electronique label has won great recognition and support throughout the international scene. This has enabled Arnaud to attract and release material from artists including D'Julz, Italoboyz, Shinedoe, Damian Schwarz, Luca Bacchetti and Johnny D.??Arnaud is now a regular spinner at some of Europe's finest, underground nightspots. His productions and remixes have found homes on superb labels. In 2009 already Arnaud has released and remixed for Children of Tomorrow, 20:20 Vision,Robotronic and SCI+TEC Digital Audio.
+
+Today's E.P. opens with the title track. Deep and hypnotic, its long atmospheric intro leads us to its key stabs, and the tougher kick drum. Each sound is beautifully layered to create the complete opener.
+
+On the remix of 'Ivory Machine' is Alex Picone. Fresh from the success of his own Bass Culture release, the 'Thai E.P.' and in sparkling form, Alex maintains the original's elemental structure, ups the tempo and adds some powerful snare and cymbal work.
+
+Finally, and rounding out the E.P. is 'The Saturday Kick Project'. 'Kick' is most definitely the predominant word here, from the power of the opening few bars we know we are in for something heavy. With an almost warehouse feel, the weighty beats are matched with spacey sounds and percussion that work perfectly together.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2010/BCR005</featured_image>
+    <download_file_name>Arnaud Le Texier - Ivory Machine EP BCR005.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR005_1.mp3"&gt;Arnaud Le Texier - Ivory Machine&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR005_2.mp3"&gt;Arnaud Le Texier - The Saturday Kick Project&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR005_3.mp3"&gt;Arnaud Le Texier - Ivory Machine (Alex Picone Remix)&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>05/02/2010</title>
+      <artists>Ivory Machine</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>05/02/2010</title>
+      <artists>The Saturday Kick Project</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>05/02/2010</title>
+      <artists>Ivory Machine</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Lov Is Easy EP</title>
+    <sku_ep>BCR006</sku_ep>
+    <artists>Anonym</artists>
+    <label>Bass Culture Records</label>
+    <genres>Tech House|House - Deep</genres>
+    <years>2010</years>
+    <type>release</type>
+    <price>5.16</price>
+    <description>D'Julz's Bass Culture Records was undoubtedly one of the major highlights in new labels for 2009. Six months old and with just five releases in the locker, it is a true testament to the A&amp;R skills of label head D'Julz that Bass Culture has already become a first choice for the discerning DJ.
+
+Support from some of the worlds best has flooded in, with Anja Schneider labeling the imprint as her 'favourite' (after her own we are sure) and DJ's including Seth Troxler, Reboot, Laurent Garnier, Sebo-k, Ivan Smagghe and Nick Curly all singing Bass Culture's praises.
+
+To date, we have seen releases from Lemos, Alex Picone, Kasper, Zoe Xenia and Arnaud Le Texier. All backed brilliantly by remixes from Chris Carrier, Mr. G, Damian Schwartz and Anonym. Modern house music at its very best.
+
+So to release number six, and D'Julz welcomes Anonym back, to deliver his very own Bass Culture, 'Lov Is Easy'. In recent times it has been fashionable for European producers to try and recreate the classic sounds of Detroit. The true vibe and feel can surely only come from the City itself?
+
+As his name suggests, whilst we know very little about Anonym, we do know that he hails from the legendary Motor City, and the true essence of his home town can be heard and felt in his music. Classic sounds constructed with a modern touch. Gritty, raw and crying out for sweaty basements.
+
+Both original's 'Do You Wanna Party' and 'Midnight Groove Sun Express' are backed by a the superb D'Julz edit of title track 'Lov Is Easy'. Another excellent selection and another fantastic Bass Culture release. Add to the digital-only package, a sultry remix from one of the labels female family members, Zoe Xenia - for a healthy vocal dosage.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2010/BCR006</featured_image>
+    <download_file_name>Anonym - Lov Is Easy EP BCR006.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR006_1.mp3"&gt;Anonym - Midnite Groove Sun Express&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR006_2.mp3"&gt;Anonym - Lov Is Easy (D'Julz Edit)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR006_3.mp3"&gt;Anonym - Do You Wanna Party?&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR006_4.mp3"&gt;Anonym - Midnite Groove Sun Express (Zoe Xenia Feel Mix)&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>19/03/2010</title>
+      <artists>Midnite Groove Sun Express</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>19/03/2010</title>
+      <artists>Lov Is Easy</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>19/03/2010</title>
+      <artists>Do You Wanna Party?</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>19/03/2010</title>
+      <artists>Midnite Groove Sun Express</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Caravan EP</title>
+    <sku_ep>BCR007</sku_ep>
+    <artists>Oleg Poliakov</artists>
+    <label>Bass Culture Records</label>
+    <genres>Tech House|House - Deep</genres>
+    <years>2010</years>
+    <type>release</type>
+    <price>3.87</price>
+    <description>Its been a heady few months D'Julz's Bass Culture imprint. The response and support from the DJ world has been overwhelming, and this is of course down to the wonderful A&amp;R skills of the label chief. Still reeling from Anonym's excellent 'Lov Is Easy' EP, we
+ready ourselves for the debut of EP from Oleg Poliakov.
+Also known for his releases under the 'Skat' moniker, Oleg's early production career was built on creating beats for Hip-Hop MC's and lending his studio skills to Rappers. Switching to Radio production, he went onto to work with French national stations, further enhancing his technical skills. It was at this time his began to explore electronic music as a composer.
+With a sound that strays from specifics, he looks to create his own compositions using a subtle combo of all electronic worlds. His early releases on labels including Karat and Sthlmaudio won him acclaim, but it is his releases for Circus Company that have really put him on the map.
+Today we welcome Oleg to Bass Culture with his fantastic 'Caravan E.P.' The title track with its Motown bass lick and sturdy kick drum expands with an instantly recognizable sax line, which is driven by the drums throughout.
+
+'ULE' opens with its twisted strings and snare work. Its throbbing bass enters the fray and we are stung by its vocal sample, warm synths and tom toms.
+Completing the package is 'Besides', Rim and share shots and backed by a pulsing bassline and warm, constant synth. A delicate alarm stab and jazz trumpet combo, with a magical sparkle then takes the track to the next level. Special.
+Enjoy!</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2010/BCR007</featured_image>
+    <download_file_name>Oleg Poliakov - Caravan EP BCR007.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR007_1.mp3"&gt;Oleg Poliakov - Caravan&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR007_2.mp3"&gt;Oleg Poliakov - Ule&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR007_3.mp3"&gt;Oleg Poliakov - Besides&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>07/05/2010</title>
+      <artists>Caravan</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>07/05/2010</title>
+      <artists>Ule</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>07/05/2010</title>
+      <artists>Besides</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Slit EP</title>
+    <sku_ep>BCR008</sku_ep>
+    <artists>John Dimas</artists>
+    <label>Bass Culture Records</label>
+    <genres>Tech House|House - Deep</genres>
+    <years>2010</years>
+    <type>release</type>
+    <price>6.45</price>
+    <description>Bass Culture 8th release matches one of the most exciting young producers of today, John Dimas, with a resurgent house legend, Chez Damier.
+
+The Slit E.P. features three beautifully constructed and wonderfully deep cuts. The title tracks tight, warm grooves and crowd pleasing drops are backed brilliantly by the synth laden expanse that is Lost In The Clouds and the aptly named, bass-heavy party-starter Bump.
+
+On the remix of Slit, Bass Culture are proud to welcome founding member of the Detroit Music Institute, one time manager of KMS Records and founder of what many believe to be historys finest House label, Prescription Records, Chez Damier. In sparkling form since his return to the scene, Chez steps up to work his magic on not one, but two versions of our title track. His Late Nite mix exudes a laid back elegance, whilst its Raw brother gets its rattlesnake grind on.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2010/BCR008</featured_image>
+    <download_file_name>John Dimas - Slit EP BCR008.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR008_1.mp3"&gt;John Dimas - Slit&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR008_2.mp3"&gt;John Dimas - Bump&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR008_3.mp3"&gt;John Dimas - Lost In The Clouds&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR008_4.mp3"&gt;John Dimas - Slit&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR008_5.mp3"&gt;John Dimas - Slit (Chez Damier Raw Mix)&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>04/06/2010</title>
+      <artists>Slit</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>04/06/2010</title>
+      <artists>Bump</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>04/06/2010</title>
+      <artists>Lost In The Clouds</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>04/06/2010</title>
+      <artists>Slit</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>04/06/2010</title>
+      <artists>Slit</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Sleepless Nights EP</title>
+    <sku_ep>BCR009</sku_ep>
+    <artists>Rio Padice</artists>
+    <label>Bass Culture Records</label>
+    <genres>Techno|House - Deep</genres>
+    <years>2010</years>
+    <type>release</type>
+    <price>5.16</price>
+    <description>It is incredible and a little unnerving to discover that Rio Padices first forays in production came as recently as 2007. 2008 saw him publish his first productions on Mosaik Musik, which were of a more minimal, Techno nature. 2009 saw the successful collaboration with Metroline Limited, which has spawned a a number of releases and remixes, most notably his Road To Alberqueque and Twin Peaks EPs. The same year also saw Rio join forces with Massimo Di Lena under their new alias Horacio to release two EPs on the highly acclaimed Raum Musik and Cynosure labels. With Rio currently devoting his time to learning the production techniques of the 90s, blending the use of software, hardware and sampling, his productions, unlike so much of the current trend for looking back, have a mature and studied Classic sound and feel to them. The Sleepless Nights EP features a wonderful selection of work, that sees Rio exploring and bringing together the best in Classic sounds with his very own fresh contemporary spin. From the opening house of Ravestation with its open hats, dramatic strings and vocal stabs, to the dubby, deep yet kickin Azimuth, via Deepstations delicate and warm bass and the final brilliant jackin vibes of Ghus, you are treated to some of Padices finest work.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2010/BCR009</featured_image>
+    <download_file_name>Rio Padice - Sleepless Nights EP BCR009.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR009_1.mp3"&gt;Rio Padice - Raverstation&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR009_2.mp3"&gt;Rio Padice - Deepstation&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR009_3.mp3"&gt;Rio Padice - Azimuth&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR009_4.mp3"&gt;Rio Padice - Ghus&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>30/07/2010</title>
+      <artists>Raverstation</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>30/07/2010</title>
+      <artists>Deepstation</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>30/07/2010</title>
+      <artists>Azimuth</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>30/07/2010</title>
+      <artists>Ghus</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Extended Pain EP</title>
+    <sku_ep>BCR010</sku_ep>
+    <artists>Mr. G</artists>
+    <label>Bass Culture Records</label>
+    <genres>House - Deep|Techno</genres>
+    <years>2010</years>
+    <type>release</type>
+    <price>3.87</price>
+    <description>For Bass Culture's 10th release D'julz welcome back Gez Varley, aka Mr. G. Having first worked his recently released 'Still Here (Get Down)' artist album on Rekids, Mr. G now makes his full debut on Bass Culture with the Extended Pain EP. Two devastatingly good originals in the form of Sunday Blues and JB's sees the G man revisiting those classic, deeper sounds, whilst delivering the fresh and upfront tastes as only he can. Repaying the remix favour for BCR003 is Esperanza boss and Bass Culture favourite, Kasper. Getting to grips with Sunday Blues the Madrid man turns the smooth mood of the original on its head. Industrial sized beats, blinding rides and a preciously warped synth line, give a whole new face to already beautiful original.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2010/BCR010</featured_image>
+    <download_file_name>Mr. G - Extended Pain EP BCR010.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR010_1.mp3"&gt;Mr. G - JB's&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR010_2.mp3"&gt;Mr. G - Sunday Blues&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR010_3.mp3"&gt;Mr. G - Sunday Blues (Kasper Remix)&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>15/10/2010</title>
+      <artists>JB's</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>15/10/2010</title>
+      <artists>Sunday Blues</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>15/10/2010</title>
+      <artists>Sunday Blues</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Beat Of This Beat Of That EP</title>
+    <sku_ep>BCR011</sku_ep>
+    <artists>Lemos</artists>
+    <label>Bass Culture Records</label>
+    <genres>Tech House|House</genres>
+    <years>2010</years>
+    <type>release</type>
+    <price>5.16</price>
+    <description>September 2009 saw Lemos Kalooo EP (BCR001) kick off the Bass Culture journey. Hailing from Athens, the trained pianist, Saxphonist and guitarist, who grew up on a diet of Herbie Hancock, Booka T &amp; The MGs and John Coltrane, has already seen his music released to great acclaim on labels including Cecille, Welcome To Masomenos, 8Bit, Adult Only, Connaisseur, Safari Electronique, Air London and Resopal Schallware. As the title suggests his Beat Of This, Beat Of That EP offers up a variety of sounds, all featuring the elegantly techy edge that we have come to associate with Lemos.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2010/BCR011</featured_image>
+    <download_file_name>Lemos - Beat Of This Beat Of That EP BCR011.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR011_1.mp3"&gt;Lemos - Sher Base&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR011_2.mp3"&gt;Lemos - Output&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR011_3.mp3"&gt;Lemos - Small Drops&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR011_4.mp3"&gt;Lemos - Freaquent&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>26/11/2010</title>
+      <artists>Sher Base</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>26/11/2010</title>
+      <artists>Output</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>26/11/2010</title>
+      <artists>Small Drops</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>26/11/2010</title>
+      <artists>Freaquent</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>In Your Soul EP</title>
+    <sku_ep>BCR012</sku_ep>
+    <artists>Zoe Xenia</artists>
+    <label>Bass Culture Records</label>
+    <genres>Tech House|House - Deep</genres>
+    <years>2010</years>
+    <type>release</type>
+    <price>6.45</price>
+    <description>It seems almost ridiculous to refer to Zoe Xenia as a label regular, when we are only on release number 12. Maybe? But Zoe is without a doubt, one of the our key artists. Zoe first featured on Bass Culture with her Let The Music Play EP in December last year, and whilst it may have been only our 4th release, it was somewhat of a definitive one. We last welcomed Zoe for her remix of Anonyms Midnight Groove Sun Express back in March, and we couldnt be more excited to have her back, with her new In Your Soul EP. 3 beautifully produced originals that range from the warm grooves of her S Catt mix of Is It What, to the aquatic ping-pong of Higher Ground, via the wonderful hip-ripping cultured bass of In Your Soul. Providing the remix on this EP is an artist that we have wanted to work with for some time. Today our wish has been granted, as Frankfurts finest, and Deep Vibes label head, Sascha Dive steps up to remix In Your Soul.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2010/BCR012</featured_image>
+    <download_file_name>Zoe Xenia - In Your Soul EP BCR012.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR012_1.mp3"&gt;Zoe Xenia - In Your Soul (Sascha Dives NY In My Soul Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR012_2.mp3"&gt;Zoe Xenia - Is It What&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR012_3.mp3"&gt;Zoe Xenia - In Your Soul&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR012_4.mp3"&gt;Zoe Xenia - Higher Ground&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR012_5.mp3"&gt;Zoe Xenia - Is It What&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>10/12/2010</title>
+      <artists>In Your Soul</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>10/12/2010</title>
+      <artists>Is It What</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>10/12/2010</title>
+      <artists>In Your Soul</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>10/12/2010</title>
+      <artists>Higher Ground</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>10/12/2010</title>
+      <artists>Is It What</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Silence Is Golden EP</title>
+    <sku_ep>BCR013</sku_ep>
+    <artists>Joel Alter</artists>
+    <label>Bass Culture Records</label>
+    <genres>House - Deep|Tech House</genres>
+    <years>2011</years>
+    <type>release</type>
+    <price>6.45</price>
+    <description>Another debut for the new Bass Culture release. For BCR013, we welcome Sweden's Joel Alter.
+
+As a trained Violinist and composer for the Swedish National Theatre, Joel's first steps into the world of electronic composition came with an exotic mixture of classical influence and modern inspiration, from acts such as Depeche Mode, Jean-Michel Jarre and Front 242. A key figure on the Swedish music scene since 1995, Joel has always seen his music as stemming from the meeting of a variety of artforms. His first steps onto the international circuit came with the signing of material to Int. DeeJay Gigolo and Minus. Since then, he has developed a strong relationship with Hamburg label, Room With A View, featuring on seven releases since early 2009, as well as releasing on Berlin based label Sweatshop. It was January's 'Preaching To The Choir' on Room With A View, a track that became a firm favourite with D'Julz, and included on his Rex Club compilation, that lead to a request for an EP for Bass Culture. The 'Silence Is Golden' EP is a broad, four track selection, showcasing the sounds and style of the Swede.
+
+The deep, popping-bass and crescendo hitting keys of the title track, are supported by the excellent 'I Feel You'. A track that, uses the most recognizable of vocal samples, in a highly respectful and fresh way. 'Love, Hope and Change' is a haunting slice of melancholy, that shines through its elegant, cascading piano. One grand debut deserves another, and Bass Culture welcomes Daniel Stefanik with his take on 'Silence Is Golden'. The man from Leipzig reworks the original into a late-night tribal-tech number, using its silky keys to perfection and retaining its air of elegance.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2011/BCR013</featured_image>
+    <download_file_name>Joel Alter - Silence Is Golden EP BCR013.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR013_1.mp3"&gt;Joel Alter - Silence Is Golden&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR013_2.mp3"&gt;Joel Alter - Silence Is Golden (Daniel Stefanik Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR013_3.mp3"&gt;Joel Alter - I Feel You&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR013_4.mp3"&gt;Joel Alter - Love, Hope &amp; Change&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR013_5.mp3"&gt;Joel Alter - Early Birds&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>07/01/2011</title>
+      <artists>Silence Is Golden</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>07/01/2011</title>
+      <artists>Silence Is Golden</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>07/01/2011</title>
+      <artists>I Feel You</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>07/01/2011</title>
+      <artists>Love, Hope &amp; Change</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>07/01/2011</title>
+      <artists>Early Birds</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Various 01</title>
+    <sku_ep>BCR014</sku_ep>
+    <artists>Various Artists</artists>
+    <label>Bass Culture Records</label>
+    <genres>Tech House|House - Deep</genres>
+    <years>2011</years>
+    <type>release</type>
+    <price>5.16</price>
+    <description>All thirteen releases of the label to date have have showcased the talent of a solo artist, but today five are welcomed for what is not only their label debuts, but also a first V/A release for Bass Culture Records. Danny Fiddo &amp; JM Aboga lead from the front with Evil Intentions, which strangely enough, with its smooth feel good vibes, is anything but. Fiddo needs little introduction. As a resident of Valencias Barraca club, he has shared the DJ booth with the worlds biggest names, and his music has already found a home on labels including Buzzin Fly, Rekids, Ovum and Barraca. Fellow Valencian Jose Maria, has also resided in the house of Barraca. His solo production work can be found on Time Has Changed and Novo Music, and together with Fiddo, the pair have released on Fumakilla and Monique. Fabio Giannelli demonstrates just how much his production style has matured on the beautifully cultured, Leitmotiv. Fabio has, over the past three years, become one of Italys finest house music exports. Since his early EPs for Ocean Trax, he has gone on to regularly release on labels including Supplement Facts, Off, Material, Suara, Adult Only and Supernature. He has also successfully launched his very own label, District Raw. Talking Italian, our next debutant is the Bari born, new kid on the block, Domy. His cut, Go On leads the EP into deeper territory. A real talent for the future, Domys inclusion here signals what is only his third release to date. His track Dance featured on an EP for Bouq back in April, whilst So Free produced alongside Felipe Venegas, featured on the Chileans Arturo Baila EP on Climatic Sound. Closing the EP is wonderfully hypnotic All By Myself by Larsson. Having made a grand entrance onto the scene back in 2006 with early releases for Bpitch Control, Traum and Trapez, the Bremen man has continued to impress with signings to Minus, Fumakilla, Hi Freaks and Rotary Cocktail.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2011/BCR014</featured_image>
+    <download_file_name>Various Artists - Various 01 BCR014.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR014_1.mp3"&gt;Danny Fiddo, J. M. Aboga - Evil Intentions&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR014_2.mp3"&gt;Fabio Giannelli - Leitmotiv&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR014_3.mp3"&gt;Domy - Go On&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR014_4.mp3"&gt;Larsson - All By Myself&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>01/03/2011</title>
+      <artists>Evil Intentions</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>01/03/2011</title>
+      <artists>Leitmotiv</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>01/03/2011</title>
+      <artists>Go On</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>01/03/2011</title>
+      <artists>All By Myself</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Fofoca EP</title>
+    <sku_ep>BCR015</sku_ep>
+    <artists>D'Julz</artists>
+    <label>Bass Culture Records</label>
+    <genres>Techno|Tech House</genres>
+    <years>2011</years>
+    <type>release</type>
+    <price>5.16</price>
+    <description>When Bass Culture Records launched in 2009, the name was already heavily steeped in Club folklore. 1997 saw the birth of the now legendary, 'Bass Culture' parties at Paris' Rex club, and the monthly party has now become the longest running event in the club's history. The musical programmer and figure-head of both night and label is of course, D'Julz.
+
+Whether its through his productions, radio shows, compilations, parties or club sets, D'Julz has been at the forefront of electronic music since his career first began back in 1992. A firm DJ and fan favourite alike, his ability to transcend genres and trends has seen him maintain one of the most consistent levels of success of any modern day DJ/Producer. A run of form that is at its strongest, today.
+
+In its fourteen releases to date Bass Culture has welcomed a variety of talent, yet till now has hosted the mercurial beats of its boss only the once; On the edit of Anonym's 'Lov Is Easy'. Today's 'Fofoca' EP sees D'Julz confirm once again just why he and his music are held in such high regard, with three exclusive new cuts from the Frenchman.
+
+Title track 'Fofoca' with its marching bass and rasping hats is the perfect opener. Its ecstatic gasps are countered by the shrill wail and its rapid-fire snares. 'Da Madness' again sees D'Julz working the Hats, as its hypno-bass is joined by the intensifying synth pulse and its Jamaican vocal speaks an industry truth as 'Da Madness' takes hold. Closing the EP is aptly titled 'At The End Of The Day.' Its classic drum patterns and popping bassline combine to create a wonderfully oldschool soundtrack that is set to win the hearts of the new school.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2011/BCR015</featured_image>
+    <download_file_name>D'Julz - Fofoca EP BCR015.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR015_1.mp3"&gt;D'Julz - Fofoca&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR015_2.mp3"&gt;D'Julz - Da Madness&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR015_3.mp3"&gt;D'Julz - At The End Of The Day&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR015_4.mp3"&gt;D'Julz - Fofoca&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>11/04/2011</title>
+      <artists>Fofoca</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>11/04/2011</title>
+      <artists>Da Madness</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>11/04/2011</title>
+      <artists>At The End Of The Day</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>11/04/2011</title>
+      <artists>Fofoca</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Make It Till Monday EP</title>
+    <sku_ep>BCR016</sku_ep>
+    <artists>Arnaud Le Texier</artists>
+    <label>Bass Culture Records</label>
+    <genres>Tech House|House - Deep</genres>
+    <years>2011</years>
+    <type>release</type>
+    <price>5.16</price>
+    <description>Having been treated to the debut EPs of Franco Cinelli and label boss DJulz, its time to turn our attention to a producer who has already graced the catalogue with his Ivory Machine EP back in 2010. That was release 005 for the label and today, Arnaud Le Texier returns with his equally impressive, Make It Till Monday EP.
+
+The Safari Electronique chief turns in another superb four track collection. The bubbling opening strains and rasping snar of Rue Oscar Roty, leads us to the brilliantly deep and creative title track, Make It Till Monday. Plunging deeper still is Arnauds stripped down and beautifully tripped out homage to the London district, Stepney. All three are backed by the elegantly twisted vibes of the final cut, Just A Flower.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2011/BCR016</featured_image>
+    <download_file_name>Arnaud Le Texier - Make It Till Monday EP BCR016.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR016_1.mp3"&gt;Arnaud Le Texier - Rue Oscar Roty&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR016_2.mp3"&gt;Arnaud Le Texier - Make It Till Monday&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR016_3.mp3"&gt;Arnaud Le Texier - Stepney&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR016_4.mp3"&gt;Arnaud Le Texier - Just A Flower&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>03/06/2011</title>
+      <artists>Rue Oscar Roty</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>03/06/2011</title>
+      <artists>Make It Till Monday</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>03/06/2011</title>
+      <artists>Stepney</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>03/06/2011</title>
+      <artists>Just A Flower</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Planet Dub EP</title>
+    <sku_ep>BCR017</sku_ep>
+    <artists>Franco Cinelli</artists>
+    <label>Bass Culture Records</label>
+    <genres>Techno|Tech House</genres>
+    <years>2011</years>
+    <type>release</type>
+    <price>5.16</price>
+    <description>Rosario born Argentinean Franco Cinelli has been firmly rooted behind the decks since the tender age of 14. Drawn by the call of the drums and having researched the creation of music through computers and samplers, the mid '90's saw Cinelli's first productions taking shape. Rapidly becoming a key player on the Argentine scene, Franco played throughout the country, holding a residency at the prestigious El Sotano. His first forays to Europe came in 2003, but it was 2005 that his own music really made an impact.
+
+Having released a handful of releases and mix compilations on smaller labels, it was his 'Picaro' EP with Bruno Pronsato that really brought him to the attention of the music world. Since then, Franco has gone on to release and remix for a number of established imprints including Ilian Tape, Produkt, Claque Musique, Hello Repeat, Airdrop and International Freakshow. 2006 saw the release of his debut artist album 'Profundo Amor' on Alphahouse, and the same year saw Franco team up with his now great friend and Esperanza boss Kasper. The following year saw his first release for Esperanza and since that time he has gone on to become one of their key artists.
+
+Today Franco follows in the musical footsteps of Kasper, making his debut on Bass Culture with the superb 'Planet Dub' EP. 'Usually i don't sit down to create a whole EP' says Franco. 'I sit, cool down and set out to produce individual tracks. Once i have a certain amount I select some, review them, make any final chances and then group them together. But only ever two at a time. This is a special EP.' Having been asked by label head D'Julz to present a four track selection, Franco chose well.
+
+'Whilst there is a common trend of Dub rhythms, hence the name 'Planet Dub' EP, each of the tracks hold a little something extra. 'M 40' shows an intense techno influence. 'Home' is definitely touched by classic disco and modern soul which gives it a funkier edge. 'Green Monkeys' also has a funk that draws from Chicago House and Detroit melodies.' And what of the title track? 'Ahh well 'Planet Dub' expresses a complex mixture of techno/house. Hypnotic techno, classic house, Chicago style, dub, and funky twisted base lines which leads you through its melody, to intense experimental atmospheres. As a track, it definitely encapsulates my own personal approach to the creative process of making music.'</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2011/BCR017</featured_image>
+    <download_file_name>Franco Cinelli - Planet Dub EP BCR017.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR017_1.mp3"&gt;Franco Cinelli - M-40&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR017_2.mp3"&gt;Franco Cinelli - Planet Dub&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR017_3.mp3"&gt;Franco Cinelli - Home&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR017_4.mp3"&gt;Franco Cinelli - Green Monkey&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>13/05/2011</title>
+      <artists>M-40</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>13/05/2011</title>
+      <artists>Planet Dub</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>13/05/2011</title>
+      <artists>Home</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>13/05/2011</title>
+      <artists>Green Monkey</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>En Pensant EP</title>
+    <sku_ep>BCR018</sku_ep>
+    <artists>Alex Picone</artists>
+    <label>Bass Culture Records</label>
+    <genres>House - Deep|House</genres>
+    <years>2011</years>
+    <type>release</type>
+    <price>6.45</price>
+    <description>Italian born Alex Picone has been an integral member of the Bass Culture family since the label launch. His Thai EP, our second release, found critical acclaim from both DJs and Dance Press. Backed by its Chris Carrier remix, the Ep gathered strong support from the likes of Loco Dice, Luciano, Tiefschwarz, DJ Hell, Ame and more.
+
+Alex was soon following his Ep, with a remix for Arnaud Le Texier on Ivory Machine EP from BCR005. Again receiving huge praise and support from his peers. When hes not at the helm of the Bass Culture express, Alex can be found releasing work on such highly acclaimed labels as Cadenza, Bosconi and Tenax. Whilst his output may not be as prolific as some, each and every release stands the test of time. This may be down to Alexs unique and unnerving ability to cross genres, however we feel its simply down to the unrivalled quality of his productions.
+
+A quality that is once again in evidence on his, En Pensant EP. Four wonderfully varied original cuts and a summery Phil Weeks remix that range from the smooth as silk, vocal-lead title track, to the deep and elegantly twisted 'Coco Verde.' All via the bass-marching wrath of 'Tuleto' and the broken beats and dub stylings of the brilliant 'City Sound.' Yet another impressively complete release from both Alex Picone and Bass Culture.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2011/BCR018</featured_image>
+    <download_file_name>Alex Picone - En Pensant EP BCR018.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR018_1.mp3"&gt;Alex Picone - En Pensant&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR018_2.mp3"&gt;Alex Picone - En Pensant (Phil Weeks Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR018_3.mp3"&gt;Alex Picone - Tuleto&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR018_4.mp3"&gt;Alex Picone - City Sound&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR018_5.mp3"&gt;Alex Picone - Coco Verde&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>08/07/2011</title>
+      <artists>En Pensant</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>08/07/2011</title>
+      <artists>En Pensant</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>08/07/2011</title>
+      <artists>Tuleto</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>08/07/2011</title>
+      <artists>City Sound</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>08/07/2011</title>
+      <artists>Coco Verde</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Gs Spot! EP</title>
+    <sku_ep>BCR019</sku_ep>
+    <artists>Mr. G</artists>
+    <label>Bass Culture Records</label>
+    <genres>Tech House</genres>
+    <years>2011</years>
+    <type>release</type>
+    <price>2.58</price>
+    <description>UK producer and Bass Culture regular, Mr. G makes a welcome return to the label with his latest three track bonanza, Gs Spot! EP. With last years Extended Pain EP still causing damage, Mr. G tweaks and teases our senses once again as he electrifies with both sides of the vinyl release.
+
+The vinyl only title track, Gs Spot! sees him stamp his authority from the get-go. Its big-room reach is unquestionable as it builds from its opening bongos and hi-hats into an intense number, driven by its demanding horn stabs. Having ramped things up from the off, on the flip New Days brings us back down, if only for a moment. Like an alter-ego to our A Side, New Dayz opens with piercing bongos. Its soothing synth laps like the tide as it builds to crescendo and then soothed by its bassline.
+
+Keeping with the warm summer vibes and treating us once again, G also presents a most welcome digital exclusive cut, Got That Swing. Smile-inducing and hip-possessing, driven by its kick-drun, groovin baseline and diva vocal, Got That Swing is the perfect end to a most complete EP.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2011/BCR019</featured_image>
+    <download_file_name>Mr. G - Gs Spot! EP BCR019.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR019_1.mp3"&gt;Mr. G - New Dayz&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR019_2.mp3"&gt;Mr. G - Got That Swing&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>09/09/2011</title>
+      <artists>New Dayz</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>09/09/2011</title>
+      <artists>Got That Swing</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Rules Of Love EP</title>
+    <sku_ep>BCR020</sku_ep>
+    <artists>Eric D. Clark, Joel Alter</artists>
+    <label>Bass Culture Records</label>
+    <genres>House - Deep</genres>
+    <years>2011</years>
+    <type>release</type>
+    <price>6.45</price>
+    <description>Book-ending a successful 2011 for Bass Culture Records, the label return to Swedish producer Joel Alter, whos January release the Silence Is Golden ep, remains one of the most popular and successful releases to date for DJulz impressively strong imprint. Having spent a vast amount of 2011 collaborating on new music with Henrik Jonsson, including their debut long player, Mod released in October on Kontra-Musik, Joel flies solo again on BCR020, his Rules Of Love ep. Featuring the silky yet questioning tones of Erik D Clark on vocals, the title track ploughs a deeper path than some of Bass Cultures recent releases. The production is very much less is more as Erik flows effortlessly from speech to song and Joel sweeps us along with his popping bassline and open hats. DJ Qu has been on the remix target list of BC boss DJulz for some time now and to have him lend his talents to reworking Rules Of Love was always going to be a perfect match. The New Jersey native and Strength Music chief leads the original into sleazier territory. This is a darker place, where the ceilings are low and drip with sweat. Where the strobe is the only light and the walls throb with Qus gut wrenching bassline.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2011/BCR020</featured_image>
+    <download_file_name>Eric D. Clark, Joel Alter - Rules Of Love EP BCR020.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR020_1.mp3"&gt;Eric D. Clark, Joel Alter - Rules Of Love&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR020_2.mp3"&gt;Eric D. Clark, Joel Alter - Rules Of Love (Franck Roger Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR020_3.mp3"&gt;Eric D. Clark, Joel Alter - Rules Of Love (DJ Qu)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR020_4.mp3"&gt;Eric D. Clark, Joel Alter - Rules Of Love (DJ Qu All Ova The Floor Re-Touch)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR020_5.mp3"&gt;Joel Alter - Closer 2 Me&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>07/12/2011</title>
+      <artists>Rules Of Love</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>07/12/2011</title>
+      <artists>Rules Of Love</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>07/12/2011</title>
+      <artists>Rules Of Love</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>07/12/2011</title>
+      <artists>Rules Of Love</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>07/12/2011</title>
+      <artists>Closer 2 Me</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Changing Cities EP</title>
+    <sku_ep>BCR021</sku_ep>
+    <artists>Anonym</artists>
+    <label>Bass Culture Records</label>
+    <genres>Tech House|House - Deep</genres>
+    <years>2012</years>
+    <type>release</type>
+    <price>6.45</price>
+    <description>Release number 021 for Bass Culture Records and they once again look to their Detroit connection and the always on point, Anonym. Having first made an appearance on the label back in 2009, remixing Zoe Xenia's 'Let The Music Play,' it was his own 2010 ep 'Lov Is Easy' that really established the mysterious producer as a founding BC family member. The ep continues to be one of the labels most popular releases. As we enter 2012 Anonym makes his much anticipated return with another choice three track selection backed by a brace of mixes from David Duriez. Opening the EP is 'If Everyday Was A Sunny Day' and 'Preacher' house never sounded so powerful. 'West Side Jack' sees Anonym moving out of the sun and into the eery shade. Hypnotic to the end, its unexpected twist in the final third will surprise many. Third and final original is the title track, 'Changing Cities' which continues you with the suspense whilst plunging us to its warm depths. Warmth is also the key ingredient in the remixes of 'If Every Day Is A Sunny Day' from French house legend, David Duriez. Making his return to production for the first time in four years, David steps away from the all encompassing intensity of the original, bringing a looseness and flow, allowing his beats to breathe and the bassline to develop and take hold. This is house music at its finest and together with its Dub, a fitting addition to another exciting Bass Culture release. Welcome back David!</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2012/BCR021</featured_image>
+    <download_file_name>Anonym - Changing Cities EP BCR021.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR021_1.mp3"&gt;Anonym - If Every Day Was A Sunny Day&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR021_2.mp3"&gt;Anonym - If Every Day Was A Sunny Day (David Duriez Going Rogue Dub)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR021_3.mp3"&gt;Anonym - Changing Cities&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR021_4.mp3"&gt;Anonym - West Side Jack&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR021_5.mp3"&gt;Anonym - If Every Day Was A Sunny Day (David Duriez Going Rogue Remix)&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>25/01/2012</title>
+      <artists>If Every Day Was A Sunny Day</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>25/01/2012</title>
+      <artists>If Every Day Was A Sunny Day</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>25/01/2012</title>
+      <artists>Changing Cities</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>25/01/2012</title>
+      <artists>West Side Jack</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>25/01/2012</title>
+      <artists>If Every Day Was A Sunny Day</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Microdrama EP</title>
+    <sku_ep>BCR022</sku_ep>
+    <artists>Dan Curtin</artists>
+    <label>Bass Culture Records</label>
+    <genres>Tech House|House - Deep</genres>
+    <years>2012</years>
+    <type>release</type>
+    <price>5.16</price>
+    <description>The fact that, after more than twenty years in the industry, Dan Curtins music is as innovative and vital as ever before is testament to the skills and strengths of the man himself and the high regard in which his music is held. With over 70 singles, 9 albums and a discography that dates back to first releases for Detroits 33RPM in 1992, the Cleveland born producer can proudly wear the affectionate title of a veteran of the music scene. Yet whilst the title refers to time past, its Dans ability stay firmly in the present that sees him remain one of the most influential producers of today. The very fact that Curtain is never constrained by style or genres is perhaps the key factor to his success. Having seen releases on Peacefrog, Strictly Rhythm, Tuning Spork and Soma to name but a few, its Anja Schneiders Mobilee imprint where Dan has really found a home since relocating to Berlin in 2003. A string of remixes and singles, including Novembers A Study In You, are backed by his 2010 full-length opus Lifeblood. A label boss himself, Dans Metamorphic imprint has now reached release #025, providing a platform for him to experiment further under his many pseudonyms such as, Planetary. Today Dan joins the Bass Culture family and presents what for is us, one of the most impressive and diverse releases on the label to date. Variety really is the key as Dan opens with the piano-laden title track Microdrama. Calia evokes balearic memories with its evocative horns and sparkling synth riffs whilst Time Will Tell takes a deeper mysterious trip with spritely key melody and whispered vocal. Final cut Wasted Stranger sees Dan ring the bells as he brings the ep to a close to a wonderful percussive workout.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2012/BCR022</featured_image>
+    <download_file_name>Dan Curtin - Microdrama EP BCR022.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR022_1.mp3"&gt;Dan Curtin - Microdrama&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR022_2.mp3"&gt;Dan Curtin - Calia&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR022_3.mp3"&gt;Dan Curtin, Habida - Wasted Stranger&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR022_4.mp3"&gt;Dan Curtin - Time Will Tell&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>21/03/2012</title>
+      <artists>Microdrama</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>21/03/2012</title>
+      <artists>Calia</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>21/03/2012</title>
+      <artists>Wasted Stranger</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>21/03/2012</title>
+      <artists>Time Will Tell</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Japan Ice EP</title>
+    <sku_ep>BCR023</sku_ep>
+    <artists>Rush?</artists>
+    <label>Bass Culture Records</label>
+    <genres>Tech House|House - Deep</genres>
+    <years>2012</years>
+    <type>release</type>
+    <price>6.45</price>
+    <description>Release 023 matches newbies, Rush?, with Dutch maestro, Gerd. Alfredo Caforio and Gianni Sabato came together with equal, yet different musical ideas, to form Rush?. What began as fun sessions and club nights throughout Italy, eventually saw the pair developing their own sound and before long music. They describe their work as, full of atmospheric detail, sometimes a little abstract and sometimes more narrative, but always with deep club-based grooves. The Japan Ice EP features four original cuts from the duo, all revelling in the raw oldschool sound that Rush? hold so dear. Yet whilst the influence of Detroit rings loud, this is most certainly an EP for the present. Gerd ramps things up on his rework of Snaster, building to a crescendo before dropping into a ravey bassline that veers brilliantly from smooth to distorted to acidic and back again.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2012/BCR023</featured_image>
+    <download_file_name>Rush? - Japan Ice EP BCR023.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR023_1.mp3"&gt;Rush? - Japan Ice&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR023_2.mp3"&gt;Rush? - Sampler Special&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR023_3.mp3"&gt;Rush? - Snaster (Gerd Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR023_4.mp3"&gt;Rush? - Cortometraggio&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR023_5.mp3"&gt;Rush? - Snaster&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>25/04/2012</title>
+      <artists>Japan Ice</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>25/04/2012</title>
+      <artists>Sampler Special</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>25/04/2012</title>
+      <artists>Snaster</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>25/04/2012</title>
+      <artists>Cortometraggio</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>25/04/2012</title>
+      <artists>Snaster</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Same Old Story EP</title>
+    <sku_ep>BCR024</sku_ep>
+    <artists>Jay Tripwire</artists>
+    <label>Bass Culture Records</label>
+    <genres>House - Deep|Tech House</genres>
+    <years>2012</years>
+    <type>release</type>
+    <price>6.45</price>
+    <description>Bass Culture Records boss DJulz, with release 034, stays true his claim of bringing together the finest of both established and new artists as he welcomes house legend Jay Tripwire to the family, backed by a remix from the UKs rising talent, OCH. Future Music Magazine named Jay Tripwire alongside the likes of Frankie Knuckles, Larry heard, Charles Webster and Tom Middleton as being one of the most influential Innovators in House music for, The thoughtful minimal stylings of his music. With over 250,000 vinyl sales to his name and music featuring on many of the finest and most legendary labels of today, its hard to disagree. His signature fusion of Detroit textures and intricate rhythms plus an unnerving ability of creating the freshest of jams, has seen him stand firmly at the forefront of the scene for two decades. Joining the Bass Culture roster, Jay drops an impressive debut in the Same Old Story ep. Kicking off with the deep throbbing vocal styles of the title track, Tripwire leads us on a perfect, dare we say it, trip. Through the beautifully cosmic and acid-tinged Move Your Body Feel Like This and onto the bongo-fuelled suspense of Rawlord, Jay teases us with his oldskool vocal runs. For those of you who prefer your beats Sans vocals, we even have an instrumental version of Same Old Story. Having impressed with his brace of releases for Autoreply, UK producer OCH was bagged by Bass Culture to lend his talents to reworking the title track. Going for a more minimal approach, OCH strips things back, keeps it simple and delivers an effective new look for Same Old Story.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2012/BCR024</featured_image>
+    <download_file_name>Jay Tripwire - Same Old Story EP BCR024.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR024_1.mp3"&gt;Jay Tripwire - Same Old Story&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR024_2.mp3"&gt;Jay Tripwire - Same Old Story (OCH Same Old Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR024_3.mp3"&gt;Jay Tripwire - Move Your Body Feel Like This&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR024_4.mp3"&gt;Jay Tripwire - Rawlord&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR024_5.mp3"&gt;Jay Tripwire - Same Old Story&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>23/05/2012</title>
+      <artists>Same Old Story</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>23/05/2012</title>
+      <artists>Same Old Story</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>23/05/2012</title>
+      <artists>Move Your Body Feel Like This</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>23/05/2012</title>
+      <artists>Rawlord</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>23/05/2012</title>
+      <artists>Same Old Story</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Take Me Back EP</title>
+    <sku_ep>BCR025</sku_ep>
+    <artists>Franco Cinelli</artists>
+    <label>Bass Culture Records</label>
+    <genres>Tech House|House</genres>
+    <years>2012</years>
+    <type>release</type>
+    <price>5.16</price>
+    <description>Rosario born Argentinean Franco Cinelli has been firmly rooted behind the decks since the tender age of 14. Drawn by the call of the drums and having researched the creation of music through computers and samplers, the mid 90s saw Cinellis first productions taking shape. Rapidly becoming a key player on the Argentine scene, Franco played throughout the country, holding a residency at the prestigious El Sotano. His first forays to Europe came in 2003, but it was 2005 that his own music really made an impact. Having released a handful of releases and mix compilations on smaller labels, it was his Picaro EP with Bruno Pronsato that really brought him to the attention of the music world. Since then, Franco has gone on to release and remix for a number of established imprints including Ilian Tape, Produkt, Claque Musique, Hello Repeat, Airdrop , International Freakshow, Alphahouse and the label of his great friend Kasper, Esperanza. In 2011 following his critically acclaimed Planet Dub debut EP on Bass Culture Records, Franco Cinelli finally achieved global recognition with his massive underground remix of Cassius Sound Of Violence that placed strongly in many of the end-of-year Top 10 best remix of 2011 lists. Today Franco returns to Bass Culture Records for a new take on his trademark deep &amp; techy house with 4 original tracks on the Take Me Back EP.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2012/BCR025</featured_image>
+    <download_file_name>Franco Cinelli - Take Me Back EP BCR025.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR025_1.mp3"&gt;Franco Cinelli - Take Me Back&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR025_2.mp3"&gt;Franco Cinelli - Into The Groove&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR025_3.mp3"&gt;Franco Cinelli - Black Rhythm&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR025_4.mp3"&gt;Franco Cinelli - Klarrp&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>02/07/2012</title>
+      <artists>Take Me Back</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>02/07/2012</title>
+      <artists>Into The Groove</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>02/07/2012</title>
+      <artists>Black Rhythm</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>02/07/2012</title>
+      <artists>Klarrp</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>In Trecere EP</title>
+    <sku_ep>BCR026</sku_ep>
+    <artists>Marcman</artists>
+    <label>Bass Culture Records</label>
+    <genres>House - Deep|Tech House</genres>
+    <years>2012</years>
+    <type>release</type>
+    <price>5.16</price>
+    <description>Over the past few years we have seen a surge of artists, music and labels coming out of Romania and, whilst not seen as a traditional hotbed of House Music, this new wave of movers and shakers are working together to create their own lasting musical legacy. The latest in the busy line of producers is 22 year old Bacau born, Marcman. Behind the decks at 14 and studying his art from 18 the young man with a love for angry kicks and heavy baselines has already graced the likes of Quanticman, Plant 74 and Esperanza with his music. Now hes set to join the Bass Culture family as he presents his debut release for the label the In Trecere ep. I was actually sent some Marcman tracks about a year ago by Franco Cinelli says Bass Culture label chief DJulz. I instantly loved his beats and groove and i played them immediately on the Circoloco terrace. I got in touch and asked him to work on an ep for Bass Culture. I specifically wanted it for this summer because his beats are exactly what i love to play in Ibiza.. Marcmans 4 track In Trecere ep sees him sandwiching the deep dubby sounds of Rutina and the percussive guitar licked Dansand, with the Chicagoesque numbers Levier and In Trecere.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2012/BCR026</featured_image>
+    <download_file_name>Marcman - In Trecere EP BCR026.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR026_1.mp3"&gt;Marcman - In Trecere&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR026_2.mp3"&gt;Marcman - Rutina&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR026_3.mp3"&gt;Marcman - Dansand&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR026_4.mp3"&gt;Marcman - Levier&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>27/08/2012</title>
+      <artists>In Trecere</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>27/08/2012</title>
+      <artists>Rutina</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>27/08/2012</title>
+      <artists>Dansand</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>27/08/2012</title>
+      <artists>Levier</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Die Nacht EP</title>
+    <sku_ep>BCR027</sku_ep>
+    <artists>Andrade</artists>
+    <label>Bass Culture Records</label>
+    <genres>House - Deep</genres>
+    <years>2012</years>
+    <type>release</type>
+    <price>5.16</price>
+    <description>Andrade - Die Nacht EP is the latest release on Bass Culture Records.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2012/BCR027</featured_image>
+    <download_file_name>Andrade - Die Nacht EP BCR027.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR027_1.mp3"&gt;Andrade - Die Nacht&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR027_2.mp3"&gt;Andrade - Der Tag&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR027_3.mp3"&gt;Andrade - Moscow Revenge (Jus-Ed Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR027_4.mp3"&gt;Andrade - Moscow Revenge&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>01/10/2012</title>
+      <artists>Die Nacht</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>01/10/2012</title>
+      <artists>Der Tag</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>01/10/2012</title>
+      <artists>Moscow Revenge</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>01/10/2012</title>
+      <artists>Moscow Revenge</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Work EP</title>
+    <sku_ep>BCR028</sku_ep>
+    <artists>John Jastszebski</artists>
+    <label>Bass Culture Records</label>
+    <genres>House - Deep|Tech House</genres>
+    <years>2012</years>
+    <type>release</type>
+    <price>6.45</price>
+    <description>Djulzs Bass Culture Records revisits home soil with its forthcoming Work EP, from young Parisian techno gem, John Jastszebski. Bubbling under the radar whilst building support through residencies at Paris Social Club and Rex Club, Jastszebski received affirmation for his early productions from the likes of Luciano, Richie Hawtin and Agoria. Flash forward to late 2012 and Djulz has snapped up the talented producer for a four track EP, backed by a bonus remix from Chicago born, Detroit raised House don, Delano Smith. The Work EP is all twilight silkiness, the skill behind the alluring, forward thinking construction instantly inviting you on the journey. From soothing piano riffs to tribal drum work and allusions to Mother Nature, the work of both Jastszebski and Smith on the remix maintains Bass Cultures tradition of technical clarity and creativity.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2012/BCR028</featured_image>
+    <download_file_name>John Jastszebski - Work EP BCR028.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR028_1.mp3"&gt;John Jastszebski - Work&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR028_2.mp3"&gt;John Jastszebski - Drive In&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR028_3.mp3"&gt;John Jastszebski - Tea Break (Delano Smith Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR028_4.mp3"&gt;John Jastszebski - Clock&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR028_5.mp3"&gt;John Jastszebski - Tea Break&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>19/12/2012</title>
+      <artists>Work</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>19/12/2012</title>
+      <artists>Drive In</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>19/12/2012</title>
+      <artists>Tea Break</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>19/12/2012</title>
+      <artists>Clock</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>19/12/2012</title>
+      <artists>Tea Break</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Five EP</title>
+    <sku_ep>BCR029</sku_ep>
+    <artists>The Analogue Cops</artists>
+    <label>Bass Culture Records</label>
+    <genres>House - Deep|Techno</genres>
+    <years>2013</years>
+    <type>release</type>
+    <price>5.16</price>
+    <description>Fresh off the back of John Jastszebskis celebrated Work EP, DJulzs Bass Culture Records returns with a unique and varied double A-side featuring collaborations between Berghain mainstay Ryan Elliott, label regular Alex Picone and the ever-influential Analogue Cops. After catching The Analogue Cops playing alongside Picone as their live outfit, Hands Up, in Ibiza this summer, label boss DJulz felt resolute in signing some tracks, and so the Five EP was born. The release brings to light these artists true weight and resonance in todays scene, with the A-side showcasing Ryan Elliott and The Analogue Cops true ear for a modern techno gem and the B-side presenting Alex Picone and The Analogue Cops live credentials. A siders Gentlemen and Homeboys take listeners to the very depths of bass with low end fuzz, the subtlest hint of dub and a percussive swing welcomed at any hour on the dance floor. Out of Passion and No Stress go deeper still, with a true sense of liveness to the drums, heart-grasping basslines and sensual undertones. With this exciting set of collaborations on the Five EP, DJulz and his always on point Bass Culture are set to start 2013 as they mean to go on with this exciting January release.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2013/BCR029</featured_image>
+    <download_file_name>The Analogue Cops - Five EP BCR029.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR029_1.mp3"&gt;Ryan Elliott, The Analogue Cops - Gentlemen&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR029_2.mp3"&gt;Ryan Elliott, The Analogue Cops - Homeboys&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR029_3.mp3"&gt;Alex Picone, The Analogue Cops - Out Of Passion&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR029_4.mp3"&gt;Alex Picone, The Analogue Cops - No Stress&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>28/01/2013</title>
+      <artists>Gentlemen</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>28/01/2013</title>
+      <artists>Homeboys</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>28/01/2013</title>
+      <artists>Out Of Passion</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>28/01/2013</title>
+      <artists>No Stress</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Third Strike EP</title>
+    <sku_ep>BCR030</sku_ep>
+    <artists>Joel Alter</artists>
+    <label>Bass Culture Records</label>
+    <genres>House - Deep|Tech House</genres>
+    <years>2013</years>
+    <type>release</type>
+    <price>5.16</price>
+    <description>Joel Alter is now officially a Bass Culture Records MVP. Already a firm favourite with label boss DJulz, the Swedish producer bookended 2011 with a brace of releases that are still proving to be some of the labels most popular to date. The DJ Qu remixed Rules Of Love was described by Resident Advisor as a snug slice of deep house shrouded in a warming, edge softening mistiness. No Way, the lead track from his new Third Strike EP strikes a similarly deep and hazy chord. A warm bubbling drum pattern and delicate keys work together with a ghostly atmospheric synth and vocal, to create another Alter gem. On a2 and gently upping the ante are the hypnotic tribal beats and spoken vocal of, The Drum. Giving his very own techno take on No Way is Berlin based producer Ed Davenport who, having enjoyed a stellar 2012 that included the release of his debut artist album Counterchange (NRK), kicks off a new campaign by turning up the temperature of Joels original with his pulsing bass synths and scything hi-hats. Rounding off the package and delivering a real taste of spring is the third of Alters originals, the sweet and lively, Jitterbug.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2013/BCR030</featured_image>
+    <download_file_name>Joel Alter - Third Strike EP BCR030.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR030_1.mp3"&gt;Joel Alter - No Way&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR030_2.mp3"&gt;Joel Alter - The Drum&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR030_3.mp3"&gt;Joel Alter - No Way (Ed Davenport Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR030_4.mp3"&gt;Joel Alter - Jitterbug&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>04/03/2013</title>
+      <artists>No Way</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>04/03/2013</title>
+      <artists>The Drum</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>04/03/2013</title>
+      <artists>No Way</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>04/03/2013</title>
+      <artists>Jitterbug</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>How Dark Is Your Deepness ?</title>
+    <sku_ep>BCR031</sku_ep>
+    <artists>Purveyors Of Fine Funk</artists>
+    <label>Bass Culture Records</label>
+    <genres>Tech House|House - Deep</genres>
+    <years>2013</years>
+    <type>release</type>
+    <price>5.16</price>
+    <description>Purveyors Of Fine Funk - How Dark Is Your Deepness ? is the latest release on Bass Culture Records.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2013/BCR031</featured_image>
+    <download_file_name>Purveyors Of Fine Funk - How Dark Is Your Deepness ? BCR031.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR031_1.mp3"&gt;Purveyors Of Fine Funk - How Dark Is Your Deepness ?&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR031_2.mp3"&gt;Purveyors Of Fine Funk - Body Close To Mine&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR031_3.mp3"&gt;Purveyors Of Fine Funk - Quickdraw&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR031_4.mp3"&gt;Purveyors Of Fine Funk - Tease&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>06/05/2013</title>
+      <artists>How Dark Is Your Deepness ?</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>06/05/2013</title>
+      <artists>Body Close To Mine</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>06/05/2013</title>
+      <artists>Quickdraw</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>06/05/2013</title>
+      <artists>Tease</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Improvise EP</title>
+    <sku_ep>BCR032</sku_ep>
+    <artists>OCH</artists>
+    <label>Bass Culture Records</label>
+    <genres>House - Deep</genres>
+    <years>2013</years>
+    <type>release</type>
+    <price>5.16</price>
+    <description>Bass Culture welcome British producer OCH into the fold for their latest release, the Impressive EP, which we must say certainly lives up its name. OCH hails from London, but relocated to Sweden, where he produces most of his material with previous releases coming via imprints such as Baby Fords PAL SL Records, Trelik and Autoreply, OCH has established himself as a reputable source of carefully-crafted, deep, often introspective techno sounds. His productions caught the ear of label boss Djulz and culminated in this four-track EP, which is full of off-kilter rhythms and warped sounds. Take the first track for example, with tribal percussion kicking in from the off. Its soon joined by a wonky chime effect that meanders up and down, colliding with the beats and beguiling the listener with its captivating movement. An old school vocal sample drops in, before the track continues at a pace droplets of water can be heard in the background and cantankerous snare makes its presence felt throughout. A strong start. Ultimate DJ Tool is pretty self-explanatory, its a one-minute loop with a sample repeating This is the ultimate accompanied by a synth stab in the background. Certainly guaranteed to do some serious work on the dancefloor when used in the right way. Next up is Chill Haze, a relentless, driving techno track that rolls and rolls (and rolls) repetitive and enchanting in its continuous flow. As the beats clap around the whirring bassline youll be come transfixed by its allure, like a cobra to snake charmers flute. Airy melodies dance away in the background as the bass drives on, with just a couple of moments of respite. Finally Ultimate Kommunikation is a more downbeat affair, trundling along with a sullen feel, emotive synths cascade over the stepping beats. The vocal utters This is the ultimate, flutes sing away adding extra gravity to the dramatic feel of the track and punctuating a delightful breakdown. OCH throws down some serious music in this new package from Bass Culture, which is a great addition to the Parisian labels catalogue and to any DJs collection.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2013/BCR032</featured_image>
+    <download_file_name>OCH - Improvise EP BCR032.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR032_1.mp3"&gt;OCH - Improvise&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR032_2.mp3"&gt;OCH - Ultimate DJ Tool&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR032_3.mp3"&gt;OCH - Chill Haze&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR032_4.mp3"&gt;OCH - Ultimate Kommunikation&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>17/06/2013</title>
+      <artists>Improvise</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>17/06/2013</title>
+      <artists>Ultimate DJ Tool</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>17/06/2013</title>
+      <artists>Chill Haze</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>17/06/2013</title>
+      <artists>Ultimate Kommunikation</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Da Madness Remixes</title>
+    <sku_ep>BCR033</sku_ep>
+    <artists>D'Julz</artists>
+    <label>Bass Culture Records</label>
+    <genres>Techno|House - Deep</genres>
+    <years>2013</years>
+    <type>release</type>
+    <price>6.45</price>
+    <description>D'Julz - Da Madness Remixes is the latest release on Bass Culture Records.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2013/BCR033</featured_image>
+    <download_file_name>D'Julz - Da Madness Remixes BCR033.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR033_1.mp3"&gt;D'Julz - Da Madness (Rolando Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR033_2.mp3"&gt;D'Julz - Da Madness&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR033_3.mp3"&gt;D'Julz - Da Madness (The Martinez Brothers Feat. Phil Weeks Edit)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR033_4.mp3"&gt;D'Julz - Da Madness (Doc Martin Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR033_5.mp3"&gt;D'Julz - Da Madness&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>02/07/2013</title>
+      <artists>Da Madness</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>02/07/2013</title>
+      <artists>Da Madness</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>02/07/2013</title>
+      <artists>Da Madness</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>02/07/2013</title>
+      <artists>Da Madness</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>02/07/2013</title>
+      <artists>Da Madness</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>No More Talkin</title>
+    <sku_ep>BCR037</sku_ep>
+    <artists>Chris Simmonds</artists>
+    <label>Bass Culture Records</label>
+    <genres>House - Deep</genres>
+    <years>2014</years>
+    <type>release</type>
+    <price>2.58</price>
+    <description>In the tidal wave of house music that has been released since the mid-80s there is always the risk of missing out on a hidden gem; one of those secret weapons that only the most on-point crate diggers found at the time of release.
+
+This rule could easily apply to most of Chris Simmonds back catalogue, as the UK house titan has side-stepped the notoriety he surely deserves for relentlessly delivering quality over a career that stretches back to 1990. Much like Mr G who appeared on our last release, Chris Simmonds has been simmering constantly in the background while other trends and phases have come and gone. As such, we feel its only right to bring to light one of the finest examples of the talent this unsung hero has been dropping since house music was an infant genre.
+
+Originally released in 2003, the instrumental version of The Way U Want 2B wastes no time in ripping into the quintessential garage house groove, all sizzling hats and snappy snare, while snippets of Diamonds breathless vocal worm their way into the rhythm. Firing off subtle flecks of keys and pulses to accentuate the energy of the track, its only at the midway point that everything opens up with a soaring lead synth that reaches back to the golden age of soul music. In amongst the crafty edits and nagging funk of the percussion its as complete a house cut as you could ever wish for.
+
+No More Talkin takes a more linear path into the night, the drums pounding out a staccato command to move more and socialise less. Likewise the arpeggio that runs alongside has a similar urgency, calling out a nervous melody as it runs to keep up with the beat. In the space around this locomotion come fleeting snapshots of dub processing, drenched in reverb and tickled with delay, that slowly feed into the main arrangement in the perfect cocktail of eyes-closed heads-down dance music.
+
+Nestled comfortably between DJ-friendly club cuts and expressive soul music, Chris Simmonds is everything a house producer should be, and its Bass Cultures pleasure to share with you just one drop in an ocean of heavy-grooving music he has given to the world.
+
+What They say about it!
+Raresh : Another beauty reissued . merci
+Radhoo: Excelent
+Ryan Elliott: Love it 100%%. I always have at least one CS record in my crate. I should have known Julian does too!! Perfect heavy house, as always with BC.
+Tobi Neumann: Great to have master Simmons back with this wicked release on beloved Bass Culture imprint! The tunes are just simply uplifting and will be played for sure!!!
+Sonja Moonear: Nice powerful groove! thank you
+Alex from Tokyo: No more talking is my jam! Great release of an old track from the great Chris Simmonds. Arigato!
+Dubfire: Good tracks , thank you!
+Dorian Paic: No more talking hasnt left my case since more than a year or even longer ! Perfect Party Crasher !!! Two thumbs up for this re release..
+Sebo K: Great release ! full support !
+Dixon: Good ,thanx!
+Sasha: Nice groover</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2014/BCR037</featured_image>
+    <download_file_name>Chris Simmonds - No More Talkin BCR037.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR037_1.mp3"&gt;Chris Simmonds - The Way U Want 2B&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR037_2.mp3"&gt;Chris Simmonds - No More Talking&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>03/03/2014</title>
+      <artists>The Way U Want 2B</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>03/03/2014</title>
+      <artists>No More Talking</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Pajala Sunrise</title>
+    <sku_ep>BCR038</sku_ep>
+    <artists>Art Alfie, Mr. Tophat</artists>
+    <label>Bass Culture Records</label>
+    <genres>Tech House|House - Deep</genres>
+    <years>2014</years>
+    <type>release</type>
+    <price>2.58</price>
+    <description>Tapping into the strong current of quality electronic music coming out of Sweden, the latest Bass Culture shines a light on two talents working out of the Stockholm underground who have created their own imprint on the European house and techno scene. The Pajala Sunrise E.P marks the first release that Mr Tophat and Art Alfie have issued away from their shared base camps of Junk Yard Connections and Karlovak, two labels that showcase the pairs commitment to pushing 4/4 dance music forwards wherever they can.
+
+Energy lies at the heart of the sound that Oscar and Rudolf (to give them their real names) conjure up, both in the urgent pulse of their full-bodied drum arrangements and the spiritual lilt of their melodic content. Take Pajala Sunrise, the A-side on this latest offering, which surges forth on an immersive kick and hat combo coloured with a deceptively funky bass lick. While this rugged exterior provides the momentum to the track, the esoteric keys and pads that come drifting in deliver the soul. With a peak populated with wayward sirens and sunkissed piano stabs, its a club ready workout that speaks directly to both body and mind.
+
+Where the A-side is all joyous celebration, Ressle Restroom heads into moodier territory where percussion dominates the frequency range. Its a slow-burner, holding back on all the elements for as long as possible to truly draw the mind into a sparse soundscape populated by abstract vocal snippets and pumping locomotives of drums, inspired by the choppy funk of micro house but welded to a more weighty rhythmic framework. The deeper into the track you go, the more the sound world builds up around you, from crowd ambience to momentary diva croons, the track never peaking or troughing as much as constantly burrowing into your subconscious.
+
+For their first adventure away from their own highly-regarded labels, Mr Tophat and Art Alfie have demonstrated the skills that have brought them so much success on their own terms. Bass Culture is only too happy to help spread that talent even further afield.
+
+
+Support bY Melon - Adam Shelton - Larsson - Arnaud Letexier - Tripmastaz - Dan Curtin - julietta - Molly - Javier Carballo - Boris Werner - Franco Cinelli - Federico Molinari - Anthony Collins - Joel Alter - Sebo K - Danny Tenaglia - Franck Roger - Stacey Pullen - Dorian Paic - Willie Graff - Brawther - Dubfire....</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2014/BCR038</featured_image>
+    <download_file_name>Art Alfie, Mr. Tophat - Pajala Sunrise BCR038.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR038_1.mp3"&gt;Art Alfie, Mr. Tophat - Pajala Sunrise&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR038_2.mp3"&gt;Art Alfie, Mr. Tophat - Ressle's Room&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>04/06/2014</title>
+      <artists>Pajala Sunrise</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>04/06/2014</title>
+      <artists>Ressle's Room</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>What U See In Me</title>
+    <sku_ep>BCR039</sku_ep>
+    <artists>Cassy, D'Julz</artists>
+    <label>Bass Culture Records</label>
+    <genres>House - Deep</genres>
+    <years>2014</years>
+    <type>release</type>
+    <price>3.87</price>
+    <description>The latest Bass Culture presents an exciting partnership between label boss DJulz and his long time friend Cassy, resulting in three tracks of the kind of refined house music that you would naturally expect from two well-travelled DJs. Her global status as a DJ ensures Cassy is never far from the minds of switched-on house heads, but its a rare treat to enjoy her own productions. When she appears on record she makes it count, and its no different here as her and DJulz tap into what makes them tick as DJs and dancers alike. What U See In Me is as seductive and hypnotic a house track as you will ever wish to hear, not least because of the immersive, insistent bassline that throbs away underneath the track. Elegant, icy string tones off-set that bottom-end rumble, leaving the perfect space in the middle for Cassys distinctive vocal to call through the mists. Its the kind of subtle approach to a club track that reveals the control and confidence of producers who dont need flashy production tricks to create their groove. On the B side, Not What U Thought has a lighter tone, letting sunny chords and a stout drum track radiate a positive energy. Theres a bluesy soulfulness to the choice of keys here, while the rising and falling of the beat makes for an addictive head-nodder with all the hallmarks of a great daytime house cut. DJulzs own dub of What U C In Me deals in crisp, linear drums to inspire a natural kind of physical reaction, letting in some light on the bass pressure of the original through metallic chords that pulse over the top of the track. Without the need for distractions or superfluous elements, Cassy and DJulz have delivered a set of honest, club-ready tracks to inspire meaningful responses from dancefloors who search beyond the obvious and the immediate in their party music. Support bY Ricardo Villalobos - DJ Three - Larsson - Shaun Reeves - Gummihz - John Dimas - Julietta - Matt Tolfrey - Javier Carballo - Alix Alvarez - Arnaud Letexier - Tania Vulcano - Tripmastaz - Shinedoe - Anthony Collins - Dan Curtin - varoslav - Okain - Youssef - Och - Molly - Jimpster - Einzelkind - Stacey Pullen - Solomun - Sascha Dive - DJ Rolando - Nick Curly - Robert Dietz - Sebo K - Franck Roger - Danny Tenaglia - Raresh - Willie Graff -</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2014/BCR039</featured_image>
+    <download_file_name>Cassy, D'Julz - What U See In Me BCR039.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR039_1.mp3"&gt;Cassy, D'Julz - What U See In Me&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR039_2.mp3"&gt;Cassy, D'Julz - Not What U Thought&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR039_3.mp3"&gt;Cassy, D'Julz - What U See In Me (D'julz Dub)&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>15/07/2014</title>
+      <artists>What U See In Me</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>15/07/2014</title>
+      <artists>Not What U Thought</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>15/07/2014</title>
+      <artists>What U See In Me</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Would Be Back EP</title>
+    <sku_ep>BCR041</sku_ep>
+    <artists>John Jastszebski</artists>
+    <label>Bass Culture Records</label>
+    <genres>House|House - Deep</genres>
+    <years>2015</years>
+    <type>release</type>
+    <price>5.16</price>
+    <description>As Bass Culture proudly reaches its 41st release, it gives us great pleasure to welcome back John Jastszebski after he last turned out an EP for us back in 2012. Releases for Phonogramme and Robsoul in the past two years have confirmed that he is a force to be reckoned with in the booming Parisian house and techno scene. His approach on the Would Be Back E.P fits in perfectly with the Bass Culture aesthetic, delivering tracks with a simple immediacy, always loaded with soul in just the right places, but never shirking the all-important groove. Would Be Backs sturdy beat leads neatly up to a colourful burst of piano chords and rousing strings that make this into a perfect summer house cut. Fevrier comes on with an entirely different season in mind, as mysterious and dubby tendrils of synths and samples unfurl around each other with a distinctly wintry mood. My Girl meanwhile keeps the energy levels up with a stripped back, punchy beat, filling the space in the mix out with rousing pads that soothe and uplift. For a remix of Would Be Back, we decided to turn to a long-time legend of the UK house scene, Nail. His remix takes a more emotive approach to Johns original, dropping in some playful synth lines and dreamy effects with stunning results. Reaching across all seasons, situations and times of day and night, the Would Be Back E.P delivers just the kind of versatile house music that sets our souls alight here at Bass Culture.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2015/BCR041</featured_image>
+    <download_file_name>John Jastszebski - Would Be Back EP BCR041.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR041_1.mp3"&gt;John Jastszebski - Would Be Back&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR041_2.mp3"&gt;John Jastszebski - Would Be Back (Nail Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR041_3.mp3"&gt;John Jastszebski - Fevrier&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR041_4.mp3"&gt;John Jastszebski - My Girl&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>16/01/2015</title>
+      <artists>Would Be Back</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>16/01/2015</title>
+      <artists>Would Be Back</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>16/01/2015</title>
+      <artists>Fevrier</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>16/01/2015</title>
+      <artists>My Girl</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>All In Vain EP</title>
+    <sku_ep>BCR042</sku_ep>
+    <artists>Lady Blacktronika</artists>
+    <label>Bass Culture Records</label>
+    <genres>House - Deep</genres>
+    <years>2015</years>
+    <type>release</type>
+    <price>3.87</price>
+    <description>Lady Blacktronika AKA the first lady of beatdown brings three solid productions with All In Vain EP, the next instalment on Bass Culture Records. Discovered on Myspace by Mike Huckaby back in 2007, Lady Blacktronikas sound brings a gritty edge from her street days, while simultaneously oozing a unique female sensitivity. Making an impressive transition from the days when the DJ boys wouldnt let her play with their toys, she runs multiple labels, Sound Black Recordings, Sound Kemystry and is co-creator of Cocaine Records, as well as releasing on Deep Explorer, Skylax, Underground Quality and now Bass Culture. Jumping straight in with Learn Me Baby, the A side sets the tone with a deep and pounding, powerful groove. The title track takes it up a notch, the most incessant of the package, built for that peak-time dance floor fury. While the techno undertones remain, Lord Knows is a beautiful swirling house number that infuses the ears and body. The common denominator in all cases is the resonating voice of Lady Blacktronika herself, adding the human touch a touch of soul.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2015/BCR042</featured_image>
+    <download_file_name>Lady Blacktronika - All In Vain EP BCR042.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR042_1.mp3"&gt;Lady Blacktronika - Learn Me Baby&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR042_2.mp3"&gt;Lady Blacktronika - All In Vain&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR042_3.mp3"&gt;Lady Blacktronika - Lord Knows&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>13/02/2015</title>
+      <artists>Learn Me Baby</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>13/02/2015</title>
+      <artists>All In Vain</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>13/02/2015</title>
+      <artists>Lord Knows</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Mass Majestic EP</title>
+    <sku_ep>BCR043</sku_ep>
+    <artists>E.G.D</artists>
+    <label>Bass Culture Records</label>
+    <genres>House - Deep</genres>
+    <years>2015</years>
+    <type>release</type>
+    <price>2.58</price>
+    <description>.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2015/BCR043</featured_image>
+    <download_file_name>E.G.D - Mass Majestic EP BCR043.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR043_1.mp3"&gt;E.G.D - Mass Majestic (Gerd 1997 Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR043_2.mp3"&gt;E.G.D - To Reach&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>15/05/2015</title>
+      <artists>Mass Majestic</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>15/05/2015</title>
+      <artists>To Reach</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Groove X EP</title>
+    <sku_ep>BCR044</sku_ep>
+    <artists>Mark Ambrose</artists>
+    <label>Bass Culture Records</label>
+    <genres>House - Deep</genres>
+    <years>2015</years>
+    <type>release</type>
+    <price>3.87</price>
+    <description>Incoming Bass Culture delivers a fresh new EP featuring three classic cuts remastered for 2015. Selected by label head DJulz, Bass Cultures 44th release comes from British producer Mark Ambrose, owner of cult outlet Crayon. Mark has been DJing since 1989 and decided to inject his passion for music into production during the late 90s, setting up Crayon in 1997. As a fan of Mark and his label, DJulz decided that Bass Culture would be the perfect place to re-release a few of his timeless tracks, so here we have the Groove X EP Though it was released 16 years ago in 1998 the title track hasnt aged a bit, powering along with a rough groove counterposed with enchanting atmospherics. On the flip Electricity (featuring David Holness) has a more celestial air with squelchy effects and jaunty vibe throughout, combined with Davids velvety vocals. Ozone completes this trio of classics and ends things on a high with hypnotic bleeps cascading down from the high end, a large slice of bass and that I cant quite understand vocal samples to really set things off.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2015/BCR044</featured_image>
+    <download_file_name>Mark Ambrose - Groove X EP BCR044.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR044_1.mp3"&gt;Mark Ambrose - Groove X&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR044_2.mp3"&gt;David Holness, Mark Ambrose - Electricity&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR044_3.mp3"&gt;Mark Ambrose - Ozone&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>10/07/2015</title>
+      <artists>Groove X</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>10/07/2015</title>
+      <artists>Electricity</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>10/07/2015</title>
+      <artists>Ozone</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Dub The Rub EP</title>
+    <sku_ep>BCR045</sku_ep>
+    <artists>Art Alfie, Mr. Tophat</artists>
+    <label>Bass Culture Records</label>
+    <genres>House - Deep</genres>
+    <years>2015</years>
+    <type>release</type>
+    <price>2.58</price>
+    <description>Swedish underground powerhouses Mr Tophat &amp; Art Alfie return to Bass Culture with their second EP for the label after the phenomenal success of their first outing, which picked up strong support from across the scene, particularly from Ricardo Villalobos. This time around, they drop two hefty slabs of disco-tinged house imbued with their own distinct flavour throughout. Dub The Rub pumps along with an infectious groove, tough percussion powers along with a rolling bassline. Watch out for the vocal-led breakdown midway through, killer! On the flip, Fnatt works around a more traditional melodic house motif; tender and bright with a lush b-line and captivating vocals made to move your body and soul.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2015/BCR045</featured_image>
+    <download_file_name>Art Alfie, Mr. Tophat - Dub The Rub EP BCR045.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR045_1.mp3"&gt;Art Alfie, Mr. Tophat - Dub The Rub&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR045_2.mp3"&gt;Art Alfie, Mr. Tophat - Fnatt&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>04/09/2015</title>
+      <artists>Dub The Rub</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>04/09/2015</title>
+      <artists>Fnatt</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Houdini EP</title>
+    <sku_ep>BCR046</sku_ep>
+    <artists>D'Julz</artists>
+    <label>Bass Culture Records</label>
+    <genres>House - Deep</genres>
+    <years>2015</years>
+    <type>release</type>
+    <price>3.87</price>
+    <description>Bass Cultures latest release comes straight from the studio of the label head, DJulz. A man who draws on dub influences, groove and deep soul-enriching rhythms, DJulz is a member of the Paris old school fraternity and brings that classic sound right into the 21st Century with his Houdini EP. Across three tracks we have a selection of music that epitomises what hes all about. The title track gets things rolling with a sultry groove pervading throughout, crunchy claps add depth while fizzing synth lines and throwback yelps give it plenty of character. Second track Waiting 4 Visa is a classy breakbeat-led outing, delicate effects loom in the background entrancing the listener while the minimal composition keeps things simple and hypnotic. Lastly Serendipity takes us a few layers deeper, with a laid-back bounce and chirpy bleeps really bringing it to life. DJulz shows us once again why hes one of the mainstays of the Paris, a godfather who does everything with a touch of class.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2015/BCR046</featured_image>
+    <download_file_name>D'Julz - Houdini EP BCR046.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR046_1.mp3"&gt;D'Julz - Houdini&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR046_2.mp3"&gt;D'Julz - Waiting 4 Visa&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR046_3.mp3"&gt;D'Julz - Serendipity&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>30/10/2015</title>
+      <artists>Houdini</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>30/10/2015</title>
+      <artists>Waiting 4 Visa</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>30/10/2015</title>
+      <artists>Serendipity</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Ben Sims Presents Ron Bacardi</title>
+    <sku_ep>BCR047</sku_ep>
+    <artists>Ben Sims</artists>
+    <label>Bass Culture Records</label>
+    <genres>Techno</genres>
+    <years>2016</years>
+    <type>release</type>
+    <price>3.87</price>
+    <description>UK techno stalwart Ben Sims adopts his Ron Bacardi alias for an outing on Bass Culture Records, bringing with him three varying slices of 4&#xD7;4-based music. DJulz has a deep penchant for bass and funk, and this is evident throughout the EP. We get off to a rugged start with Rock Your Body, a deliciously dark slice of grumbling techno. Intertwined with the morose bassline is a mysterious, tribal-esque female vocal, warped and twisted to add a primal feel to the track. On the flip, Bacardi puts his a different hat on giving us First Effort a vivacious funk-laced hybrid, which teases you spitting out intermittent trumpets and other such live instruments. Finally, The Money goes straight into disco territory with that oh-so-familiar entrancing rhythm that will keep you fixed to its beat from start to finish. That filtered wah-wah guitar is impossible to resist, especially when combined with such crisp percussion.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2016/BCR047</featured_image>
+    <download_file_name>Ben Sims - Ben Sims Presents Ron Bacardi BCR047.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR047_1.mp3"&gt;Ben Sims - Rock Your Body&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR047_2.mp3"&gt;Ben Sims - First Effort&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR047_3.mp3"&gt;Ben Sims - The Money&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>08/01/2016</title>
+      <artists>Rock Your Body</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>08/01/2016</title>
+      <artists>First Effort</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>08/01/2016</title>
+      <artists>The Money</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Don't Let Love Pass You By</title>
+    <sku_ep>BCR048</sku_ep>
+    <artists>Liz Torres, Master C &amp; J</artists>
+    <label>Bass Culture Records</label>
+    <genres>House - Deep</genres>
+    <years>2016</years>
+    <type>release</type>
+    <price>2.58</price>
+    <description>.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2016/BCR048</featured_image>
+    <download_file_name>Liz Torres, Master C &amp; J - Don't Let Love Pass You By BCR048.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR048_1.mp3"&gt;Liz Torres, Master C &amp; J - Don't Let Love Pass You By (D'julz Edit)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR048_2.mp3"&gt;Liz Torres, Master C &amp; J - Don't Let Love Pass You By&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>19/02/2016</title>
+      <artists>Don't Let Love Pass You By</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>19/02/2016</title>
+      <artists>Don't Let Love Pass You By</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Call My Name EP</title>
+    <sku_ep>BCR049</sku_ep>
+    <artists>Lady Blacktronika</artists>
+    <label>Bass Culture Records</label>
+    <genres>House - Deep</genres>
+    <years>2016</years>
+    <type>release</type>
+    <price>5.16</price>
+    <description>Lady Blacktronika shows two totally different sides to her character with her return to Bass Culture via a potent EP full of deliciously dark, bass-heavy productions placed side by side with more soulful explorations of the house sound. Following the All In Vain EP, which landed earlier this year, Lady Blacktronika comes correct once again with a collection of four of the finest quality cuts. Our introduction to the EP is a thorough dip in the deep end of tech house, with the marauding It Rains. Full of darkness, the venomous track stomps along with a powerful, darkside bassline and razor-sharp percussion. High-pitched keys add to the malevolent flavour of this raw cut. After that, we get a more measured, yet mysterious and unsettling slice of minimal funk. No Good is a hypnotic trip inside Lady Blacktronikas murky world with snarling synth lines, clever percussion, eerie FX and a naughty little b-line. On the flip we have retro-inspired Call My Name, with a very old school feel as the 808 gets a proper workout in tandem with a familiar female spoken-word vocal layered over the top. This is bound to send the dance floor into uproar with its killer vocal sample. Finally Set Out Your Luv gives the EP a heady ending; light airy pads are placed alongside a grooving bassline, soulful vocals, diamond-cut beats and squelchy effects to create a lush, dreamy soundscape which will get those hips moving.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2016/BCR049</featured_image>
+    <download_file_name>Lady Blacktronika - Call My Name EP BCR049.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR049_1.mp3"&gt;Lady Blacktronika - It Rains&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR049_2.mp3"&gt;Lady Blacktronika - No Good&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR049_3.mp3"&gt;Lady Blacktronika - Call My Name&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR049_4.mp3"&gt;Lady Blacktronika - Set Out Your Luv&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>15/04/2016</title>
+      <artists>It Rains</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>15/04/2016</title>
+      <artists>No Good</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>15/04/2016</title>
+      <artists>Call My Name</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>15/04/2016</title>
+      <artists>Set Out Your Luv</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>50/50 EP</title>
+    <sku_ep>BCR050</sku_ep>
+    <artists>Mr G</artists>
+    <label>Bass Culture Records</label>
+    <genres>House - Deep|Techno</genres>
+    <years>2016</years>
+    <type>release</type>
+    <price>2.58</price>
+    <description>Bass Culture reach that magnificent milestone of 50 releases with an extra special EP from someone who has become part of labels inner circle, the infallible Mr G. Set up in 2009 by Paris stalwart DJulz, Bass Culture Records has maintained a consistently high level of music, crossing from techno into house and back again, always with a focus on quality over quantity. Mr G delivers two special gems from his arsenal of weaponary to mark the 50th Bsss Culture release. The first, Transient sees Mr G in contemplative mood, taking a studied approach with this deep, soulful cut. Softened pads are drizzled over a punchy low end, with tough, crisp beats supporting a stirring vocal which urges everybody to get up on their feet. The nineties organ lick gives it an almost sorrowful feel, and those pads continue to takes us up to the skies. A beauty. On the flip, Crumple Zone goes straight for the jugular with a driving b-line, alarming stabs and finger-clicking percussion to get that head nodding. Combined with garbled, hypnotic vocal clips, its a mesmerising, eyes down cut for the late night heads. Towards the latter part of the track, a naughty riff comes in and adds another layer of sleaze to proceedings. And there you have it, Mr G proves yet again why hes such a all-round don and Bass Culture celebrates 50 releases with panache.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2016/BCR050</featured_image>
+    <download_file_name>Mr G - 50/50 EP BCR050.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR050_1.mp3"&gt;Mr G - Transient&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR050_2.mp3"&gt;Mr G - Crumple Zone&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>10/06/2016</title>
+      <artists>Transient</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>10/06/2016</title>
+      <artists>Crumple Zone</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Sabre Song EP</title>
+    <sku_ep>BCR051</sku_ep>
+    <artists>Steve Rachmad</artists>
+    <label>Bass Culture Records</label>
+    <genres>Techno</genres>
+    <years>2016</years>
+    <type>release</type>
+    <price>2.58</price>
+    <description>Bass Culture welcomes another industry heavyweight to its roster of talent with this new release, which follows hot on the heels of the killer 50th release by Mr. G. This latest release comes from long time friend of Bass Culture owner DJulz and Dutch techno hero Steve Rachmad. Steve is renowned for his funky take on techno, honing his skills as a DJ and producer over 25 years and establishing himself as a respected and hugely talented artist in the process. The first of two tracks on this new EP is entitled Sabre Song a stomping, illuminating cut straight out of the Rachmad school of Detroit-influenced techno. DJulz heard Steve play the track at Womb in Tokyo and had to sign it on the spot. Sabre Song is a perfect fit for Bass Culture with its groovy bassline, cutting hats and big band instrumentation. On the flip DJulz himself contributes an edit of one of Steves nineties classic, a favourite of his and one which both men agreed should be given a release. Pumping out at a speedy tempo, the force is strong with Activa, transporting us back to the rave era with its catchy melody, and retro physique. Summer vibes all the way with this one.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2016/BCR051</featured_image>
+    <download_file_name>Steve Rachmad - Sabre Song EP BCR051.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR051_1.mp3"&gt;Steve Rachmad - Sabre Song&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR051_2.mp3"&gt;Steve Rachmad - Activa (D'julz Edit)&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>14/10/2016</title>
+      <artists>Sabre Song</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>14/10/2016</title>
+      <artists>Activa</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Castaway EP</title>
+    <sku_ep>BCR052</sku_ep>
+    <artists>Anonym</artists>
+    <label>Bass Culture Records</label>
+    <genres>House - Deep</genres>
+    <years>2017</years>
+    <type>release</type>
+    <price>5.16</price>
+    <description>As the winter begins to draw in Bass Culture delivers a fresh new release straight from the oven, to keep you warm as the nights get ever colder. The label owned by Paris stalwart DJulz welcomes back an old friend in Anonym, the man responsible for BCR006 and BCR021 returns for a four-track outing which includes a remix from Orlando Voorn. Sultry atmospherics and masterful production are evident throughout this crisp new addition to the Bass Culture catalogue, another instant classic from the Detroit badboy Anonym.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2017/BCR052</featured_image>
+    <download_file_name>Anonym - Castaway EP BCR052.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR052_1.mp3"&gt;Anonym - Castaway&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR052_2.mp3"&gt;Anonym - Doin It To Ya Body&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR052_3.mp3"&gt;Anonym - Castaway (Orlando Voorn Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR052_4.mp3"&gt;Anonym - Wara Coco&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>17/03/2017</title>
+      <artists>Castaway</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>17/03/2017</title>
+      <artists>Doin It To Ya Body</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>17/03/2017</title>
+      <artists>Castaway</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>17/03/2017</title>
+      <artists>Wara Coco</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Brock Wild EP</title>
+    <sku_ep>BCR053</sku_ep>
+    <artists>Sebo K</artists>
+    <label>Bass Culture Records</label>
+    <genres>House|House - Deep</genres>
+    <years>2017</years>
+    <type>release</type>
+    <price>3.87</price>
+    <description>As we roll into a brand new year Bass Culture keeps the pressure high with a funk-filled new three-track EP from one of Germanys finest, Sebo K. The Berliner has been entrenched in his citys vibrant scene since the nineties, when he was playing breakbeat and jungle. In fact, theres a nod towards his early days on the Brock Wild EP, along with some sultry funk. Head of his own label, Scenario, and curator of parties under the same name, Sebo K has also produced music for a long list of some of the worlds most influential underground labels and now he steps up to Bass Culture with this sleek collection.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2017/BCR053</featured_image>
+    <download_file_name>Sebo K - Brock Wild EP BCR053.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR053_1.mp3"&gt;Sebo K - Brock Wild&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR053_2.mp3"&gt;Sebo K - Aftershock&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR053_3.mp3"&gt;Sebo K - Foliage Patterns&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>28/04/2017</title>
+      <artists>Brock Wild</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>28/04/2017</title>
+      <artists>Aftershock</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>28/04/2017</title>
+      <artists>Foliage Patterns</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Houdini Remixes</title>
+    <sku_ep>BCR054</sku_ep>
+    <artists>D'Julz</artists>
+    <label>Bass Culture Records</label>
+    <genres>House - Deep</genres>
+    <years>2018</years>
+    <type>release</type>
+    <price>5.16</price>
+    <description>Its time for the next release on long-running Paris label Bass Culture and owner DJulz has invited a crack team of talented individuals to deliver the magic to this latest instalment in the labels release schedule. This extra special remix package features contributions from the legendary DJ Skull, along with Sebo K, Henrik Bergqvist and Romanian MP. The bossmans own 2015 EP Houdini is the subject of this exquisite bunch of reworks, giving the whole release a fresh lick of paint from a group of artists handpicked by DJulz to get to work on his productions. The title track Houdini is first in line, with the mighty DJ Skull on remix duty. The Chi-town legend has been a favourite of DJulz since the early nineties when he was releasing on labels such as Djax-Up-Beats. The funk-imbued workout he creates from the original production is superb and a testament to someone who has been involved in music for three decades and still going strong. Keeping DJ Skulls remix company on the A-side is Sebo K with his take on Serendipity. Following on from his outstanding EP Brock Wild, Sebo returns to Bass Culture with another taught dance floor cut, full of swing and groove, pushed along with a strong, insistent energy. On the flipside the deep sultry flavours continue to bubble up. Two more dynamic artists bring their unique touch to Bass Culture and the first is the Romanian wonderkid MP (Mihai Popescu), who has previously released on the sub-label Bass Culture Limited. His reinterpretation of Serendipity is deep, nuanced and quirky with a simmering atmosphere throughout. Last but certainly not least is the Swedish maestro Henrik Bergqvist. Waiting 4 Visa gets a kick in its step, with mysterious cosmic FX layered over a mesmerising bassline and a collection of bleeps and chirps that really bring the remix to life. And there it is, four superb new mixes of three great tracks enjoy!</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2018/BCR054</featured_image>
+    <download_file_name>D'Julz - Houdini Remixes BCR054.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR054_1.mp3"&gt;D'Julz - Houdini (Dj Skull Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR054_2.mp3"&gt;D'Julz - Serendipity (Sebo K Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR054_3.mp3"&gt;D'Julz - Serendipity (MP Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR054_4.mp3"&gt;D'Julz - Waiting 4 Visa (Bergqvist Remix)&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>23/02/2018</title>
+      <artists>Houdini</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>23/02/2018</title>
+      <artists>Serendipity</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>23/02/2018</title>
+      <artists>Serendipity</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>23/02/2018</title>
+      <artists>Waiting 4 Visa</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Ready For Action</title>
+    <sku_ep>BCR055</sku_ep>
+    <artists>Ben Sims, Ron Bacardi</artists>
+    <label>Bass Culture Records</label>
+    <genres>Techno|Tech House</genres>
+    <years>2018</years>
+    <type>release</type>
+    <price>5.16</price>
+    <description>Ben Sims presents Ron Bacardi A UK techno powerhouse returns to Bass Culture for their 55th release, bringing the ruckus with four deadly cuts that combine killer beats with powerful bass and a high level of production, as you might expect from DJulzs respected label. Ben Sims appears under his Ron Bacardi alias with a follow up to 2015s debut release, Rock Your Body/First Effort. Much like the first EP, Sims new release is fired up and ready to deliver its potent energy to the dance floors of the world. On the A side were met with Windy City, which kicks things off in frenetic style, its slamming beats colliding with the layers of analogue to produce a rather chaotic start to proceedings. This is followed by Ready For Action a tough, bouncing cut featuring a delectable female vocal which really sets things off nicely. The flipside continues in a similar vein as One Left In The Chamber brings a smooth vibe, though with the emphasis still on the percussive side of things. Sims flexes his production muscles across all four tracks here, injecting the music with his years of experience on the road and in the studio. The last track is a Beats Mix of Ready For Action, highlighting the focus on beats, beats and more beats, adding an extra touch to an already powerful track. This is music par excellence from an artist who is a consummate professional, enjoy! Early support by Laurent Garnier, Raresh, The Martinez Brothers, DVSI, Sonja Moonear, Delano Smith, Sebo K, Doc Martin,Tobi Neumann...</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2018/BCR055</featured_image>
+    <download_file_name>Ben Sims, Ron Bacardi - Ready For Action BCR055.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR055_1.mp3"&gt;Ben Sims, Ron Bacardi - Windy City&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR055_2.mp3"&gt;Ben Sims, Ron Bacardi - Ready For Action&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR055_3.mp3"&gt;Ben Sims, Ron Bacardi - One Left In The Chamber&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR055_4.mp3"&gt;Ben Sims, Ron Bacardi - Ready For Action (Beats)&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>22/05/2018</title>
+      <artists>Windy City</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>22/05/2018</title>
+      <artists>Ready For Action</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>22/05/2018</title>
+      <artists>One Left In The Chamber</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>22/05/2018</title>
+      <artists>Ready For Action (Beats)</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Dark Outside</title>
+    <sku_ep>BCR056</sku_ep>
+    <artists>Leo Pol</artists>
+    <label>Bass Culture Records</label>
+    <genres>House - Deep|Techno</genres>
+    <years>2018</years>
+    <type>release</type>
+    <price>5.16</price>
+    <description>Bass Culture welcomes Frenchman Leo Pol to the fold for this fresh new four-tracker full of analogue vibes. Leos penchant for synthesisers and the warmth of his beloved machines is evident throughout this new release, with a retro soul spliced with modern sensibilities and, of course, visions of the future. Early Support bY Raresh, Sonja Moonear, Fred P, Delano Smith, Steve Rachmad, Cassy, Subb-an..</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2018/BCR056</featured_image>
+    <download_file_name>Leo Pol - Dark Outside BCR056.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR056_1.mp3"&gt;Leo Pol - Caliente&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR056_2.mp3"&gt;Leo Pol - Fnc Burning&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR056_3.mp3"&gt;Leo Pol - Dark Outside&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR056_4.mp3"&gt;Leo Pol - Techyes No!&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>30/07/2018</title>
+      <artists>Caliente</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>30/07/2018</title>
+      <artists>Fnc Burning</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>30/07/2018</title>
+      <artists>Dark Outside</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>30/07/2018</title>
+      <artists>Techyes No!</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Powered Funk</title>
+    <sku_ep>BCR057</sku_ep>
+    <artists>DJ Skull</artists>
+    <label>Bass Culture Records</label>
+    <genres>House - Deep|Techno</genres>
+    <years>2018</years>
+    <type>release</type>
+    <price>3.87</price>
+    <description>DJ Skull - Powered Funk is the latest release on Bass Culture Records.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2018/BCR057</featured_image>
+    <download_file_name>DJ Skull - Powered Funk BCR057.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR057_1.mp3"&gt;DJ Skull - Powered Funk&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR057_2.mp3"&gt;DJ Skull - Bopping&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR057_3.mp3"&gt;DJ Skull - Aseed&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>15/11/2018</title>
+      <artists>Powered Funk</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>15/11/2018</title>
+      <artists>Bopping</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>15/11/2018</title>
+      <artists>Aseed</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Lemon Juice</title>
+    <sku_ep>BCR058</sku_ep>
+    <artists>D'Julz</artists>
+    <label>Bass Culture Records</label>
+    <genres>Tech House|House - Deep</genres>
+    <years>2019</years>
+    <type>release</type>
+    <price>3.87</price>
+    <description>D'Julz As we move into 2019, the captain of the good ship Bass Culture steers the label to its latest release with D'Julz delivering a hot new three&#xAD;track EP. The seasoned Parisian maestro channels his years of experience into this new release, with a polished collection of tracks, all centred on the dance floor with subtle, yet persuasive production across all three cuts. As you may expect from D'Julz and Bass Culture, there is plenty of depth, energy and low end to keep those hips swinging and heads nodding... Things get off to a bouncy start with Lemon Juice, a funky little number with lively drum programming and a very spirited bassline. Quite minimal in its production, this cut uses its relative simplicity to grab you and keep you hypnotised until the very end. Wrecka Stow taking us on a dark side ride. D'Julz kicks off in style with this driving techy cut. A simmering energy pervades throughout as he gently builds the tension, working from a spellbinding riff that repeats over and over. Occasional dips and rises in the energy create electrifying moments, as this rolls out with a deadly rhythm. Lastly, theres Singularity, a sombre dance into the wilderness. This dreamy, mellow cut is pushed along by softened breaks and a subdued bassline. D'Julz tantalises our emotions with wistful atmospherics that send chills down your spine as you venture ever deeper into the misty realms of the eerie world he has created. A fitting end to the EP....There we have it, D'Julz returns to his beloved label with a formidable new collection of tracks.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2019/BCR058</featured_image>
+    <download_file_name>D'Julz - Lemon Juice BCR058.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR058_1.mp3"&gt;D'Julz - Lemon Juice&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR058_2.mp3"&gt;D'Julz - Wrecka Stow&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR058_3.mp3"&gt;D'Julz - Singularity&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>21/03/2019</title>
+      <artists>Lemon Juice</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>21/03/2019</title>
+      <artists>Wrecka Stow</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>21/03/2019</title>
+      <artists>Singularity</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>French Connection E.P</title>
+    <sku_ep>BCR059</sku_ep>
+    <artists>Mr .G</artists>
+    <label>Bass Culture Records</label>
+    <genres>Tech House</genres>
+    <years>2019</years>
+    <type>release</type>
+    <price>2.58</price>
+    <description>If anyone epitomises the Bass Culture ethos its core family member Mr. G. An artist whos been representing with his undisputed championship styles from day one, Mr. G is widely acknowledged across the world as a fearsome producer and an outstanding performer. With his latest appearance on Djulzs label he drops two cuts that deliver his inimitable sound; bass-heavy, funky, contagious and utterly unique. On side A we have Home Alone (on my bday), a darkside ride with rugged jackin beats as only Mr. G can produce. As the drums bounce along, a hoover-esque b-line is complemented by an infectious vocal clip. The intensity builds slowly combining a hypnotic rhythm with deadly bassweight and killer percussion. Once youre locked in, theres no escape - and why would you want to? With vibes this exhilarating, youll be boppin til the very last beat. On the flip we have Laid up and vex lol, a title which belies this cuts minimalist approach. Deep groovy subs propel the track forwards, setting the pace from the get go as the low end does it work. Sorrowful pads creep in, soon joined by a vintage soulful female vocal. As per usual from Mr. G, the arrangement and programming is exquisite, providing just the right amount of energy at just the right time throughout. Mr G returns to Bass Culture and we couldnt be happier to have him back.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2019/BCR059</featured_image>
+    <download_file_name>Mr .G - French Connection E.P BCR059.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR059_1.mp3"&gt;Mr .G - Home Alone (on My B'day)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR059_2.mp3"&gt;Mr .G - Laid Up And Vex Lol&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>10/06/2019</title>
+      <artists>Home Alone (on My B'day)</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>10/06/2019</title>
+      <artists>Laid Up And Vex Lol</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Lemon Juice (Remixes)</title>
+    <sku_ep>BCR063</sku_ep>
+    <artists>D'Julz</artists>
+    <label>Bass Culture Records</label>
+    <genres>Tech House|House - Deep</genres>
+    <years>2020</years>
+    <type>release</type>
+    <price>5.16</price>
+    <description>Bass Culture Records enters 2020 with a powerful remix package. Label boss D'Julz called up some of his good friends to step up and rework his own music for this nifty little collection. On the bill are Point G, Carl Finlow and Midnight Special, each bringing their own unique flavours to D'Julz's original work. 
+
+On side A we have Paris legend Point G remixing 'Lemon Juice'. On the first of two versions, he delivers a typically avant-garde production with an elastic bassline and dank, mystical atmospherics. On the 'dub version' Point G gives us a heads down, minimal roller which is dense and deadly.  
+
+Flip the record over and we have Carl Finlow's punchy rework of 'Wrecka Stow'. This feels very eighties with supersonic synths, laser beams and intergalactic FX bouncing all over the place. Emotive and highly danceable, it's a seriously enjoyable remix. 
+
+Closing the remix EP is Midnight Special's reinterpretation of 'Singularity', which turns the solemn original into a jump up dancefloor banger, complete with razor sharp 4x4 beats and a highly contagious bouncing b-line. Hints of the original are there, but this is a total makeover that completely transforms the vibe of D'Julz's production.
+</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2020/BCR063</featured_image>
+    <download_file_name>D'Julz - Lemon Juice (Remixes) BCR063.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR063_1.mp3"&gt;D'Julz - Lemon Juice (Point G Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR063_2.mp3"&gt;D'Julz - Lemon Juice (Point G Dub)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR063_3.mp3"&gt;D'Julz - Wreckastow (Carl Finlow Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR063_4.mp3"&gt;D'Julz - Singularity (Midnight Special Remix)&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>13/03/2020</title>
+      <artists>Lemon Juice</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>13/03/2020</title>
+      <artists>Lemon Juice</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>13/03/2020</title>
+      <artists>Wreckastow</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>13/03/2020</title>
+      <artists>Singularity</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Get Back E.P</title>
+    <sku_ep>BCR064</sku_ep>
+    <artists>Franco Cinelli</artists>
+    <label>Bass Culture Records</label>
+    <genres>Techno|Trance</genres>
+    <years>2021</years>
+    <type>release</type>
+    <price>3.87</price>
+    <description>Franco Cinelli - Get Back E.P is the latest release on Bass Culture Records.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2021/BCR064</featured_image>
+    <download_file_name>Franco Cinelli - Get Back E.P BCR064.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCR064_1.mp3"&gt;Franco Cinelli - The Strings Talk&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR064_2.mp3"&gt;Franco Cinelli - Get Back&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCR064_3.mp3"&gt;Franco Cinelli - Tribute To Mike Huckaby&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>19/03/2021</title>
+      <artists>The Strings Talk</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>19/03/2021</title>
+      <artists>Get Back</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>19/03/2021</title>
+      <artists>Tribute To Mike Huckaby</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>This Is Bass Culture</title>
+    <sku_ep>BCRLP01</sku_ep>
+    <artists>Various Artists</artists>
+    <label>Bass Culture Records</label>
+    <genres>House - Deep|Techno</genres>
+    <years>2014</years>
+    <type>release</type>
+    <price>12.9</price>
+    <description>The verdict is unanimous: scene-shaping Parisian legend D'Julz has delivered an undeniable bullseye with his first label compilation 'This is Bass Culture: 4 Years of Bass Culture Records'.
+
+Responsible for the longest running residency in Rex Club history, D'Julz's Bass Culture monthly spawned a label in 2009 to offer a release platform for artists he felt passionate about and over the ensuing years it issued cuts from the likes of Mr G, Oleg Poliakov and John Jastszebski - producers of which all feature on the compilation.
+
+'This is Bass Culture' is far from a label 'best of'; rather a manifesto of who D'Julz is as an artist, expertly woven into a 71-minute DJ masterclass featuring three brand new tracks exclusive to the compilation led by a new collaboration with Cassy.
+
+'9/10' DJmag
+'3.5/5' RA
+'deep dark, smoky and hypnotic, Paris is still burning' Mixmag
+'a fantastic snapshot' IVoice</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2014/BCRLP01</featured_image>
+    <download_file_name>Various Artists - This Is Bass Culture BCRLP01.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCRLP01_1.mp3"&gt;Joel Alter - Rules Of Love (Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP01_2.mp3"&gt;Rio Padice - Deepstation&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP01_3.mp3"&gt;John Jastszebski - Work&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP01_4.mp3"&gt;Franco Cinelli - Home&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP01_5.mp3"&gt;Anonym - Love Is Easy (Edit)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP01_6.mp3"&gt;D'Julz - Da Madness&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP01_7.mp3"&gt;Mr. G - Got That Swing&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP01_8.mp3"&gt;Mr. G - Sunday Blues (Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP01_9.mp3"&gt;Oleg Poliakov - Besides&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP01_10.mp3"&gt;D'Julz - This Is Bass Culture BY D'julz&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>13/03/2014</title>
+      <artists>Rules Of Love</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>13/03/2014</title>
+      <artists>Deepstation</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>13/03/2014</title>
+      <artists>Work</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>13/03/2014</title>
+      <artists>Home</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>13/03/2014</title>
+      <artists>Love Is Easy</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>13/03/2014</title>
+      <artists>Da Madness</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>13/03/2014</title>
+      <artists>Got That Swing</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>13/03/2014</title>
+      <artists>Sunday Blues</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>13/03/2014</title>
+      <artists>Besides</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>13/03/2014</title>
+      <artists>This Is Bass Culture BY D'julz</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Ensemble 01</title>
+    <sku_ep>BCRLP02</sku_ep>
+    <artists>Various Artists</artists>
+    <label>Bass Culture Records</label>
+    <genres>House - Deep|Techno</genres>
+    <years>2014</years>
+    <type>release</type>
+    <price>12.9</price>
+    <description>From the long-standing underground favourite Bass Culture comes a new digtial series. Hand picking a selection of tracks from the Bass Culture vinyl catalogue, plus some previously unreleased gems, label boss D'julz presents these mini compilations entitled 'ensemble'</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2014/BCRLP02</featured_image>
+    <download_file_name>Various Artists - Ensemble 01 BCRLP02.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCRLP02_1.mp3"&gt;D'Julz - DA MADNESS (Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP02_2.mp3"&gt;Jordan Peak - Track 06&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP02_3.mp3"&gt;Art Alfie, Mr. Tophat - Ressle's Restroom&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP02_4.mp3"&gt;Mr. G - Let Down&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP02_5.mp3"&gt;Cassy, D'Julz - What you see in Me&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP02_6.mp3"&gt;Kasper - Tap Dance&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP02_7.mp3"&gt;Chris Simmonds - No More Talkin&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP02_8.mp3"&gt;Jordan Peak - Sparse&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP02_9.mp3"&gt;Mr. G - Toi Toi&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP02_10.mp3"&gt;Kasper - Jaia&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>15/09/2014</title>
+      <artists>DA MADNESS</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>15/09/2014</title>
+      <artists>Track 06</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>15/09/2014</title>
+      <artists>Ressle's Restroom</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>15/09/2014</title>
+      <artists>Let Down</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>15/09/2014</title>
+      <artists>What you see in Me</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>15/09/2014</title>
+      <artists>Tap Dance</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>15/09/2014</title>
+      <artists>No More Talkin</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>15/09/2014</title>
+      <artists>Sparse</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>15/09/2014</title>
+      <artists>Toi Toi</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>15/09/2014</title>
+      <artists>Jaia</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Bass Culture Remixes Vol 1</title>
+    <sku_ep>BCRLP03</sku_ep>
+    <artists>Various Artists</artists>
+    <label>Bass Culture Records</label>
+    <genres>House - Deep</genres>
+    <years>2016</years>
+    <type>release</type>
+    <price>14.19</price>
+    <description>From the long standing underground favorite Bass Culture Records comes this selection of 11 remixes hand picked by label boss Djulz. Including digitally unreleased remixes from Fred P and Chez Damier plus classic Bass Culture reworks from Mr G, The Martinez Brothers, Chez Damier, Dj Qu, Delano Smith, Phil Weeks, Kasper, Daniel Stephanik, Anonym and Djulz.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2016/BCRLP03</featured_image>
+    <download_file_name>Various Artists - Bass Culture Remixes Vol 1 BCRLP03.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCRLP03_1.mp3"&gt;Kasper - The Pressure (Mr G's Bass Cultured Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP03_2.mp3"&gt;John Dimas - Slit (Chez Damier Late Night Mix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP03_3.mp3"&gt;D'Julz - Da Madness (The Martinez Brothers Feat. Phil Weeks Edit)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP03_4.mp3"&gt;Mr G - Sunday Blues (Kasper Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP03_5.mp3"&gt;John Jastszebski - Tea Break (Delano Smith Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP03_6.mp3"&gt;Cassy, D'Julz - What U C In Me (D'julz Dub)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP03_7.mp3"&gt;Eric D Clark, Joel Alter - Rules Of Love (Dj Qu All Ova The Floor Retouch)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP03_8.mp3"&gt;Alex Picone - En Pensant (Phil Weeks Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP03_9.mp3"&gt;Kasper - Jaia (Fred P Reshape)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP03_10.mp3"&gt;Joel Alter - Silence Is Golden (Daniel Stefanik Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP03_11.mp3"&gt;Zoe Xenia - Let The Music Play (Anonym Remix)&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>05/08/2016</title>
+      <artists>The Pressure</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>05/08/2016</title>
+      <artists>Slit</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>05/08/2016</title>
+      <artists>Da Madness</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>05/08/2016</title>
+      <artists>Sunday Blues</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>05/08/2016</title>
+      <artists>Tea Break</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>05/08/2016</title>
+      <artists>What U C In Me</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>05/08/2016</title>
+      <artists>Rules Of Love</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>05/08/2016</title>
+      <artists>En Pensant</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>05/08/2016</title>
+      <artists>Jaia</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>05/08/2016</title>
+      <artists>Silence Is Golden</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>05/08/2016</title>
+      <artists>Let The Music Play</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Bass Culture Remixes, Vol. 2</title>
+    <sku_ep>BCRLP04</sku_ep>
+    <artists>Various Artists</artists>
+    <label>Bass Culture Records</label>
+    <genres>House - Deep</genres>
+    <years>2019</years>
+    <type>release</type>
+    <price>15.48</price>
+    <description>From the long standing underground favorite Bass Culture Records comes this second selection of 11 remixes hand picked by label boss D'Julz. including remixes from Sebo K, Rolando, DJ Qu ,Gerd, Nail , DJ Skull , Jus Ed and more</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2019/BCRLP04</featured_image>
+    <download_file_name>Various Artists - Bass Culture Remixes, Vol. 2 BCRLP04.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCRLP04_1.mp3"&gt;D'Julz - Serendipity (Sebo K Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP04_2.mp3"&gt;Anonym - Castaway (Orlando Voorn Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP04_3.mp3"&gt;John Jastszebski - Would Be Back (Nail Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP04_4.mp3"&gt;Rush? - Snaster (Gerd Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP04_5.mp3"&gt;D'Julz - Da Madness (Rolando Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP04_6.mp3"&gt;Joel Alter - No Way (Ed Davenport Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP04_7.mp3"&gt;Andrade - Moscow Revenge (Jus Ed Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP04_8.mp3"&gt;Jay Tripwire - Same Old Story (OCH Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP04_9.mp3"&gt;Zoe Xenia - In Your Soul (Sascha Dive Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP04_10.mp3"&gt;Joel Alter - Rules Of Love (Dj Qu Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP04_11.mp3"&gt;D'Julz - Houdini (Dj Skull Remix)&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP04_12.mp3"&gt;D'Julz - D'julz Presents The Sound Of Bass Culture&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>10/01/2019</title>
+      <artists>Serendipity</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>10/01/2019</title>
+      <artists>Castaway</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>10/01/2019</title>
+      <artists>Would Be Back</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>10/01/2019</title>
+      <artists>Snaster</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>10/01/2019</title>
+      <artists>Da Madness</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>10/01/2019</title>
+      <artists>No Way</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>10/01/2019</title>
+      <artists>Moscow Revenge</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>10/01/2019</title>
+      <artists>Same Old Story</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>10/01/2019</title>
+      <artists>In Your Soul</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>10/01/2019</title>
+      <artists>Rules Of Love</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>10/01/2019</title>
+      <artists>Houdini</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>10/01/2019</title>
+      <artists>D'julz Presents The Sound Of Bass Culture</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>10 Years Of Bass Culture</title>
+    <sku_ep>BCRLP05</sku_ep>
+    <artists>Various Artists</artists>
+    <label>Bass Culture Records</label>
+    <genres>Tech House|House - Deep</genres>
+    <years>2019</years>
+    <type>release</type>
+    <price>12.9</price>
+    <description>Its a big one for Bass Culture this year as the label celebrates its 10th anniversary. Over the last decade DJulz has established his label as one of the most respected underground house and techno platforms around. A go-to label for connoisseurs and a home for some of the scenes most renowned artists Bass Culture has never wavered from its high standards. To celebrate the 10th anniversary DJulz has curated a three-part compilation, gathering fresh cuts from core members of the Bass Culture family for the special edition series. Franco Cinelli gets things started with a cosmic bass odyssey aptly titled BC. John Jastszebski then brings us Wonder, a smooth deep house cut with mesmerising pads and crisp percussion. Sebo Ks The Scene a techy track with a heady atmosphere and hypnotic b-line. This one will wrap you up in its mystical vibe. Haze 1997 by Mark Ambrose uses a rugged, tribal-esque beat at its foundation, this cut is taking no prisoners. Lady Blacktronika hits us with Congrats Bitch. Sending tremors through the dance floor, its a potent weapon to work the clubs with. Alex Picone adds a touch of class, as only he can, by delivering a contemplative yet punchy cut entitled Melting Moon. Chicago bossman DJ Skull delivers a funky called Mood which blends jazz, funk and soul with the core foundations of real house music.As you might expect, the production and energy on this Mr Gs Now Is The Time! is utterly compelling. A moody start is peppered with a classic reggae sample as the tension slowly builds. Leo Pol steps up next with Established 1991. As the title suggests this cut has a retro-leaning outlook, conjuring up images of a warehouse rave on the outskirts of Paris in the early nineties. DJulz closes Synchronicity a smooth groove that wraps you up in its smoky atmosphere. Magnifique!</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2019/BCRLP05</featured_image>
+    <download_file_name>Various Artists - 10 Years Of Bass Culture BCRLP05.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCRLP05_1.mp3"&gt;Franco Cinelli - BC&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP05_2.mp3"&gt;John Jastszebski - Wonder&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP05_3.mp3"&gt;Sebo K - The Scene&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP05_4.mp3"&gt;Mark Ambrose - Haze 1997&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP05_5.mp3"&gt;Lady Blacktonika - Congrats Bitch&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP05_6.mp3"&gt;Alex Picone - Melting Moon&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP05_7.mp3"&gt;DJ Skull - Mood&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP05_8.mp3"&gt;Mr .G - Now Is The Time!&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP05_9.mp3"&gt;Leo Pol - Established 1991&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP05_10.mp3"&gt;D'Julz - Synchronicity&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>02/12/2019</title>
+      <artists>BC</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>02/12/2019</title>
+      <artists>Wonder</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>02/12/2019</title>
+      <artists>The Scene</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>02/12/2019</title>
+      <artists>Haze 1997</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>02/12/2019</title>
+      <artists>Congrats Bitch</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>02/12/2019</title>
+      <artists>Melting Moon</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>02/12/2019</title>
+      <artists>Mood</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>02/12/2019</title>
+      <artists>Now Is The Time!</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>02/12/2019</title>
+      <artists>Established 1991</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>02/12/2019</title>
+      <artists>Synchronicity</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Silent Drums</title>
+    <sku_ep>BCRLP06</sku_ep>
+    <artists>D'Julz</artists>
+    <label>Bass Culture Records</label>
+    <genres>Electronica</genres>
+    <years>2020</years>
+    <type>release</type>
+    <price>14.19</price>
+    <description>D'Julz presents SILENT DRUMS
+
+It's a historic time for our planet, with half the world locked away in their homes. Feelings of isolation, bewilderment and uncertainty dominate. With everyone grounded and homebound this strange time is generating a wave of creativity, as artists channel their emotions into new projects. With Silent Drums D'Julz explores his back catalogue, excavating a selection of tracks and remodelling them for the home environment.
+The Bass Culture boss decided to go a step further than simply reissuing his old productions, stripping away the kick drums to transmute his compositions. Muting the drums on each track has led to a total transformation; each cut assuming a new identity and purpose. The result is an album that feels poignant and affecting, perfectly aligned with the mood of today.
+Stripping the drums away has allowed the deep emotions and rich textures to really come to the fore. The overall ambience negates the need for drums as bass, mids and tops conspire to enrich your mind, body and soul.
+Experience moments of intensity, serenity, contemplation, joy, mystery and transcendence as D'Julz invites us to immerse ourselves in the world of Silent Drums...</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2020/BCRLP06</featured_image>
+    <download_file_name>D'Julz - Silent Drums BCRLP06.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCRLP06_1.mp3"&gt;D'Julz - Silent Drums I&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP06_2.mp3"&gt;D'Julz - Silent Drums II&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP06_3.mp3"&gt;D'Julz - Silent Drums III&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP06_4.mp3"&gt;D'Julz - Silent Drums IV&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP06_5.mp3"&gt;D'Julz - Silent Drums V&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP06_6.mp3"&gt;D'Julz - Silent Drums VI&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP06_7.mp3"&gt;D'Julz - Silent Drums VII&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP06_8.mp3"&gt;D'Julz - Silent Drums VIII&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP06_9.mp3"&gt;D'Julz - Silent Drums IX&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP06_10.mp3"&gt;D'Julz - Silent Drums X&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP06_11.mp3"&gt;D'Julz - Silent Drums&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>08/05/2020</title>
+      <artists>Silent Drums I</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>08/05/2020</title>
+      <artists>Silent Drums II</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>08/05/2020</title>
+      <artists>Silent Drums III</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>08/05/2020</title>
+      <artists>Silent Drums IV</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>08/05/2020</title>
+      <artists>Silent Drums V</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>08/05/2020</title>
+      <artists>Silent Drums VI</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>08/05/2020</title>
+      <artists>Silent Drums VII</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>08/05/2020</title>
+      <artists>Silent Drums VIII</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>08/05/2020</title>
+      <artists>Silent Drums IX</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>08/05/2020</title>
+      <artists>Silent Drums X</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>08/05/2020</title>
+      <artists>Silent Drums</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Silent Drums</title>
+    <sku_ep>BCRLP06s</sku_ep>
+    <artists>D'Julz</artists>
+    <label>Bass Culture Records</label>
+    <genres>Electronica</genres>
+    <years>2020</years>
+    <type>release</type>
+    <price>12.9</price>
+    <description>D'Julz presents SILENT DRUMS
+
+It's a historic time for our planet, with half the world locked away in their homes. Feelings of isolation, bewilderment and uncertainty dominate. With everyone grounded and homebound this strange time is generating a wave of creativity, as artists channel their emotions into new projects. With Silent Drums D'Julz explores his back catalogue, excavating a selection of tracks and remodelling them for the home environment.
+The Bass Culture boss decided to go a step further than simply reissuing his old productions, stripping away the kick drums to transmute his compositions. Muting the drums on each track has led to a total transformation; each cut assuming a new identity and purpose. The result is an album that feels poignant and affecting, perfectly aligned with the mood of today.
+Stripping the drums away has allowed the deep emotions and rich textures to really come to the fore. The overall ambience negates the need for drums as bass, mids and tops conspire to enrich your mind, body and soul.
+Experience moments of intensity, serenity, contemplation, joy, mystery and transcendence as D'Julz invites us to immerse ourselves in the world of Silent Drums...</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2020/BCRLP06s</featured_image>
+    <download_file_name>D'Julz - Silent Drums BCRLP06s.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCRLP06s_1.mp3"&gt;D'Julz - Silent Drums I&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP06s_2.mp3"&gt;D'Julz - Silent Drums II&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP06s_3.mp3"&gt;D'Julz - Silent Drums III&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP06s_4.mp3"&gt;D'Julz - Silent Drums IV&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP06s_5.mp3"&gt;D'Julz - Silent Drums V&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP06s_6.mp3"&gt;D'Julz - Silent Drums VI&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP06s_7.mp3"&gt;D'Julz - Silent Drums VII&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP06s_8.mp3"&gt;D'Julz - Silent Drums VIII&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP06s_9.mp3"&gt;D'Julz - Silent Drums IX&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP06s_10.mp3"&gt;D'Julz - Silent Drums X&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>08/05/2020</title>
+      <artists>Silent Drums I</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>08/05/2020</title>
+      <artists>Silent Drums II</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>08/05/2020</title>
+      <artists>Silent Drums III</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>08/05/2020</title>
+      <artists>Silent Drums IV</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>08/05/2020</title>
+      <artists>Silent Drums V</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>08/05/2020</title>
+      <artists>Silent Drums VI</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>08/05/2020</title>
+      <artists>Silent Drums VII</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>08/05/2020</title>
+      <artists>Silent Drums VIII</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>08/05/2020</title>
+      <artists>Silent Drums IX</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>08/05/2020</title>
+      <artists>Silent Drums X</artists>
+      <label>Bass Culture Records</label>
+    </post>
+  </release>
+  <release>
+    <title>Best of Bass Culture, Vol. 01</title>
+    <sku_ep>BCRLP07</sku_ep>
+    <artists>Various Artists</artists>
+    <label>Bass Culture Records</label>
+    <genres>House - Deep|House</genres>
+    <years>2020</years>
+    <type>release</type>
+    <price>12.9</price>
+    <description>Various Artists - Best of Bass Culture, Vol. 01 is the latest release on Bass Culture Records.</description>
+    <owners>label_worx</owners>
+    <product_visibility>visible</product_visibility>
+    <featured_image>https://www.aze.digital/wp-content/uploads/2020/BCRLP07</featured_image>
+    <download_file_name>Various Artists - Best of Bass Culture, Vol. 01 BCRLP07.wav</download_file_name>
+    <playlist_data>&lt;a href="http://player.yoyaku.io/mp3/BCRLP07_1.mp3"&gt;Mr G - Transient&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP07_2.mp3"&gt;Sebo K - Brock Wild&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP07_3.mp3"&gt;Franco Cinelli - Into The Groove&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP07_4.mp3"&gt;Lemos - Kalooo&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP07_5.mp3"&gt;Ben Sims - Rock Your Body&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP07_6.mp3"&gt;Art Alfie, Mr. Tophat - Pajala Sunrise&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP07_7.mp3"&gt;DJ Skull - Bopping&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP07_8.mp3"&gt;Oleg Poliakov - Caravan&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP07_9.mp3"&gt;D'Julz - Da Madness&lt;/a&gt;
+&lt;a href="http://player.yoyaku.io/mp3/BCRLP07_10.mp3"&gt;Leo Pol - Dark Outside&lt;/a&gt;
+</playlist_data>
+    <post>
+      <title>07/08/2020</title>
+      <artists>Transient</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>07/08/2020</title>
+      <artists>Brock Wild</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>07/08/2020</title>
+      <artists>Into The Groove</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>07/08/2020</title>
+      <artists>Kalooo</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>07/08/2020</title>
+      <artists>Rock Your Body</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>07/08/2020</title>
+      <artists>Pajala Sunrise</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>07/08/2020</title>
+      <artists>Bopping</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>07/08/2020</title>
+      <artists>Caravan</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>07/08/2020</title>
+      <artists>Da Madness</artists>
+      <label>Bass Culture Records</label>
+    </post>
+    <post>
+      <title>07/08/2020</title>
+      <artists>Dark Outside</artists>
+      <label>Bass Culture Records</label>
+    </post>
   </release>
 </data>
