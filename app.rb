@@ -56,8 +56,9 @@ i = 1
     }
 end
 
+#read the xls until he find a different sku then send all the previous to build the release
 def readXls(ws,xml)
-    ensemble = Array.new
+    package = Array.new
     i = 1
     j = 0
     while ws.rows[i]
@@ -65,14 +66,14 @@ def readXls(ws,xml)
             break
         end
         if  ws.rows[i][1] == $catalog_current
-            ensemble[j] =  ws.rows[i]
+            package[j] =  ws.rows[i]
             j = j + 1
             i = i +1
         else
-            sendPackage(ensemble,xml)
+            sendPackage(package,xml)
             $catalog_current = ws.rows[i][1]
             j = 0
-            ensemble.clear
+            package.clear
         end
     end
 end
